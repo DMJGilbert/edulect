@@ -14,11 +14,10 @@
 	<!-- bower:css -->
 	<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" />
 	<link rel="stylesheet" href="bower_components/semantic-ui/dist/semantic.css" />
+    <link href="/app/styles/ticker-style.css" rel="stylesheet" type="text/css" />
 	<!-- endbower -->
 	<!-- endbuild -->
-	<!-- build:css styles/app.css -->
 	<link href="/app/styles/app.css" rel="stylesheet" media="screen">
-	<link href="/app/styles/ticker-style.css" rel="stylesheet" type="text/css" />
 	<!-- endbuild -->
 </head>
 <!--[if lt IE 10]>
@@ -38,10 +37,13 @@
 	<script src="bower_components/angular-route/angular-route.js"></script>
 	<script src="bower_components/lodash/dist/lodash.compat.js"></script>
 	<script src="bower_components/semantic-ui/dist/semantic.js"></script>
+    <script src="http://js.arcgis.com/3.13/"></script>
+    <script src="/app/scripts/jquery.ticker.js"></script>
 	<!-- endbower -->
 	<!-- endbuild -->
 
 	<!-- build:js scripts/main.js -->
+	<!-- bower:js -->
 	<script src="/app/scripts/app.js"></script>
 	<script src="/app/scripts/controllers/rootController.js"></script>
 	<script src="/app/scripts/controllers/homeController.js"></script>
@@ -53,6 +55,7 @@
     <script src="/app/scripts/services/candidateService.js"></script>
     <script src="/app/scripts/services/universityService.js"></script>
     <script src="/app/scripts/services/twitterService.js"></script>
+	<!-- endbower -->
 	<!-- endbuild -->
 
 </body>

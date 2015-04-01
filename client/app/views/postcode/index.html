@@ -7,7 +7,7 @@
     </div>
 </div>
 
-<div ng-show="constituency" ng-show="!currentCandidate">
+<div ng-show="constituency && !currentCandidate">
     <div style="text-align:center">
         <h3>{{ constituency }}</h3>
     </div>
@@ -31,19 +31,19 @@
     </div>
 </div>
 
-<div ng-show="candidates.length > 0" style="text-align:center;" ng-show="currentCandidate">
+<div style="text-align:center;" ng-show="candidate && currentCandidate">
     <div style="text-align:center">
         <h3>{{ area.name }}</h3>
     </div>
 
-    <img style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.person_id.image }}">
+    <img style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
 
     <div style="padding-top:10px; text-align:center">
-        {{ candidate.person_id.name }}
+        {{ candidate.name }}
     </div>
 
     <div style="padding-top:10px; text-align:center">
-        {{ candidate.person_id.party_memberships[2015].name }}
+        {{ candidate.party }}
     </div>
 
     <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">
@@ -54,12 +54,12 @@
         <i class="twitter icon"></i> {{ candidate.twitterProfile.status.text }}
     </div>
 
-    <div style="padding-top:10px; text-align:center" ng-repeat="link in candidate.person_id.links">
-        <a target="_blank" ng-href="{{link.url}}">{{ link.url }}</a>
+    <div style="padding-top:10px; text-align:center" ng-repeat="url in candidate.urls">
+        <a target="_blank" ng-href="{{url.url}}">{{ link.url }}</a>
     </div>
 
     <div style="padding-top:10px; text-align:center">
-        <a target="_blank" ng-href="mailto:{{candidate.person_id.email}}">{{ candidate.person_id.email }}</a>
+        <a target="_blank" ng-href="mailto:{{candidate.email}}">{{ candidate.person_id.email }}</a>
     </div>
 
     <table ng-show="candidate.topics.length > 0" style="width: 80%;max-width: 700px;margin: 15px auto; text-align:center" class="ui table">
