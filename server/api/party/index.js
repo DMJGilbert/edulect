@@ -34,11 +34,13 @@ var parties = {
 		'twitter': 'LibDems'
 	},
 	'UKI': {
+		'name': 'ukip',
 		'url': 'www.ukip.org/',
 		'image': 'https://pbs.twimg.com/profile_images/508028681953243136/8DrVhDgX.jpeg',
 		'twitter': 'UKIP'
 	},
 	'SNP': {
+		'name': 'SNP',
 		'url': 'www.snp.org/',
 		'image': 'https://pbs.twimg.com/profile_images/567315062738927619/L7O41SAm.jpeg',
 		'twitter': '@theSNP'
@@ -64,28 +66,26 @@ var parties = {
 
 router.get('/', function (req, res) {
 	if (req.query.id) {
+		var party = parties[req.query.id];
 		request.post('http://enterprise.majesticseo.com/api/json', {
 			form: {
 				app_api_key: process.env.MAJESTICAPI,
-				item: findLink(candidate.memberships[0].person_id.links),
+				item: party.url,
 				cmd: 'GetTopics'
 			}
 		}, function (error, response, body) {
 			if (!error && response.statusCode == 200) {
 				var web = JSON.parse(body);
 				client.get('users/lookup.json', {
-					screen_name: findTwitter(candidate.memberships[0].person_id.contact_details)
+					screen_name: party.twitter
 				}, function (error, tweets, response) {
 					var twitter = JSON.parse(response.body);
 					res.send({
-						name: candidate.name,
-						gender: candidate.gender,
-						id: candidate.gender,
-						image: candidate.image ? candidate.image : 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png',
-						urls: candidate.memberships[0].person_id.links,
+						name: party.name,
+						image: party.image,
+						urls: party.url,
 						topics: (web && web.DataTables ? web.DataTables.Topics.Data : ''),
-						twitter: twitter,
-						party: candidate.party_memberships['2015'].name
+						twitter: twitter
 					});
 				});
 			}
