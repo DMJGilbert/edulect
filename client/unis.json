@@ -1,0 +1,566 @@
+[
+	{
+		"name": "Leeds College of Music",
+		"postcode": "LS2 7PD",
+ },
+	{
+		"name": "Leeds College of Art",
+		"postcode": "LS2 9AQ",
+ },
+	{
+		"name": "Plymouth College of Art",
+		"postcode": "PL4 8AT",
+ },
+	{
+		"name": "Falmouth University",
+		"postcode": "TR11 4RH",
+ },
+	{
+		"name": "University of Hertfordshire",
+		"postcode": "AL10 9AB",
+ },
+	{
+		"name": "University of Birmingham",
+		"postcode": "B15 2TT",
+ },
+	{
+		"name": "University College Birmingham",
+		"postcode": "B3 1JB",
+ },
+	{
+		"name": "Newman University College",
+		"postcode": "B32 3NT",
+ },
+	{
+		"name": "Aston University",
+		"postcode": "B4 7ET",
+ },
+	{
+		"name": "Birmingham City University",
+		"postcode": "B42 2SU",
+ },
+	{
+		"name": "University of Bath",
+		"postcode": "BA2 7AY",
+ },
+	{
+		"name": "Bath Spa University",
+		"postcode": "BA2 9BN",
+ },
+	{
+		"name": "University of Bradford",
+		"postcode": "BD7 1DP",
+ },
+	{
+		"name": "Bournemouth University",
+		"postcode": "BH12 5BB",
+ },
+	{
+		"name": "The Arts University College At Bournemouth",
+		"postcode": "BH12 5HH",
+ },
+	{
+		"name": "University of Bolton",
+		"postcode": "BL3 5AB",
+ },
+	{
+		"name": "University of Sussex",
+		"postcode": "BN1 9RH",
+ },
+	{
+		"name": "University of Brighton",
+		"postcode": "BN2 4AT",
+ },
+	{
+		"name": "Ravensbourne",
+		"postcode": "SE10 0EW",
+ },
+	{
+		"name": "University of the West of England, Bristol",
+		"postcode": "BS16 1QY",
+ },
+	{
+		"name": "University of Bristol",
+		"postcode": "BS8 1TH",
+ },
+	{
+		"name": "Cumbria Institute of the Arts",
+		"postcode": "CA3 9AY",
+ },
+	{
+		"name": "University of Cambridge",
+		"postcode": "CB2 1TN",
+ },
+	{
+		"name": "University of Chester",
+		"postcode": "CH1 4BJ",
+ },
+	{
+		"name": "Anglia Ruskin University",
+		"postcode": "CM1 1SQ",
+ },
+	{
+		"name": "Writtle College",
+		"postcode": "CM1 3RR",
+ },
+	{
+		"name": "University of Essex",
+		"postcode": "CO4 3SQ",
+ },
+	{
+		"name": "Canterbury Christ Church University",
+		"postcode": "CT1 1QU",
+ },
+	{
+		"name": "University of Kent",
+		"postcode": "CT2 7NZ",
+ },
+	{
+		"name": "Coventry University",
+		"postcode": "CV1 5FB",
+ },
+	{
+		"name": "University of Warwick",
+		"postcode": "CV4 8UW",
+ },
+	{
+		"name": "Rose Bruford College",
+		"postcode": "DA15 9DF",
+ },
+	{
+		"name": "University of Derby",
+		"postcode": "DE22 1GB",
+ },
+	{
+		"name": "University of Durham",
+		"postcode": "DH1 3HP",
+ },
+	{
+		"name": "Queen Mary and Westfield College",
+		"postcode": "E1 4NS",
+ },
+	{
+		"name": "University of East London",
+		"postcode": "E16 2RD",
+ },
+	{
+		"name": "City University",
+		"postcode": "EC1V 0HB",
+ },
+	{
+		"name": "London Metropolitan University",
+		"postcode": "N7 8DB",
+ },
+	{
+		"name": "University of Exeter",
+		"postcode": "EX4 4QJ",
+ },
+	{
+		"name": "University of Gloucestershire",
+		"postcode": "GL50 2RH",
+ },
+	{
+		"name": "Royal Agricultural College",
+		"postcode": "GL7 6JS",
+ },
+	{
+		"name": "University of Surrey",
+		"postcode": "GU2 7XH",
+ },
+	{
+		"name": "University College for the Creative Arts",
+		"postcode": "GU9 7DS",
+ },
+	{
+		"name": "University of Huddersfield",
+		"postcode": "HD1 3DH",
+ },
+	{
+		"name": "Buckinghamshire New University",
+		"postcode": "HP11 2JZ",
+ },
+	{
+		"name": "University of Hull",
+		"postcode": "HU6 7RX",
+ },
+	{
+		"name": "Kingston University",
+		"postcode": "KT1 1LQ",
+ },
+	{
+		"name": "Liverpool Hope University",
+		"postcode": "L16 9JD",
+ },
+	{
+		"name": "Liverpool John Moores University",
+		"postcode": "L3 5UX",
+ },
+	{
+		"name": "Edge Hill University",
+		"postcode": "L39 4QP",
+ },
+	{
+		"name": "University of Liverpool",
+		"postcode": "L69 7ZX",
+ },
+	{
+		"name": "St Martin's College",
+		"postcode": "LA1 3JD",
+ },
+	{
+		"name": "University of Lancaster",
+		"postcode": "LA1 4YW",
+ },
+	{
+		"name": "University of Leicester",
+		"postcode": "LE1 7RH",
+ },
+	{
+		"name": "De Montfort University",
+		"postcode": "LE1 9BH",
+ },
+	{
+		"name": "Loughborough University",
+		"postcode": "LE11 3TU",
+ },
+	{
+		"name": "Bishop Grosseteste University College Lincoln",
+		"postcode": "LN1 3DY",
+ },
+	{
+		"name": "University of Lincoln",
+		"postcode": "LN6 7TS",
+ },
+	{
+		"name": "Leeds Metropolitan University",
+		"postcode": "LS6 3QS",
+ },
+	{
+		"name": "Leeds Trinity University",
+		"postcode": "LS18 5HD",
+ },
+	{
+		"name": "University of Leeds",
+		"postcode": "LS2 9JT",
+ },
+	{
+		"name": "Northern School of Contemporary Dance",
+		"postcode": "LS7 4BH",
+ },
+	{
+		"name": "University of Bedfordshire",
+		"postcode": "LU1 3JU",
+ },
+	{
+		"name": "University of Manchester",
+		"postcode": "M13 9PL",
+ },
+	{
+		"name": "Royal Northern College of Music",
+		"postcode": "M13 9RD",
+ },
+	{
+		"name": "The Manchester Metropolitan University",
+		"postcode": "M15 6BH",
+ },
+	{
+		"name": "University of Salford",
+		"postcode": "M5 4WT",
+ },
+	{
+		"name": "University of Manchester",
+		"postcode": "M60 1QD",
+ },
+	{
+		"name": "Kent Institute of Art & Design",
+		"postcode": "ME16 8AG",
+ },
+	{
+		"name": "Cranfield University",
+		"postcode": "MK43 0AL",
+ },
+	{
+		"name": "The Open University",
+		"postcode": "MK7 6AA",
+ },
+	{
+		"name": "Middlesex University",
+		"postcode": "N14 4YZ",
+ },
+	{
+		"name": "University of North London",
+		"postcode": "N7 8DB",
+ },
+	{
+		"name": "University of Newcastle Upon Tyne",
+		"postcode": "NE1 7RU",
+ },
+	{
+		"name": "University of East Anglia",
+		"postcode": "NR4 7TJ",
+ },
+	{
+		"name": "University of Northumbria At Newcastle",
+		"postcode": "NE1 8ST",
+ },
+	{
+		"name": "The Nottingham Trent University",
+		"postcode": "NG1 4BU",
+ },
+	{
+		"name": "University of Nottingham",
+		"postcode": "NG7 2RD",
+ },
+	{
+		"name": "University of Northampton",
+		"postcode": "NN2 7AL",
+ },
+	{
+		"name": "Norwich University of the Arts",
+		"postcode": "NR2 4SN",
+ },
+	{
+		"name": "The Royal Veterinary College",
+		"postcode": "NW1 0TU",
+ },
+	{
+		"name": "London Business School",
+		"postcode": "NW1 4SA",
+ },
+	{
+		"name": "Royal Academy of Music",
+		"postcode": "NW1 5HT",
+ },
+	{
+		"name": "Central School of Speech and Drama",
+		"postcode": "NW3 3HY",
+ },
+	{
+		"name": "University of Oxford",
+		"postcode": "OX1 2JD",
+ },
+	{
+		"name": "Oxford Brookes University",
+		"postcode": "OX3 0BP",
+ },
+	{
+		"name": "University of Plymouth",
+		"postcode": "PL4 8AA",
+ },
+	{
+		"name": "College of St Mark & St John",
+		"postcode": "PL6 8BH",
+ },
+	{
+		"name": "University of Portsmouth",
+		"postcode": "PO1 2UP",
+ },
+	{
+		"name": "University of Chichester",
+		"postcode": "PO19 6PE",
+ },
+	{
+		"name": "University of Central Lancashire",
+		"postcode": "PR1 2HE",
+ },
+	{
+		"name": "University of Reading",
+		"postcode": "RG6 6UR",
+ },
+	{
+		"name": "Sheffield Hallam University",
+		"postcode": "S1 1WB",
+ },
+	{
+		"name": "University of Sheffield",
+		"postcode": "S10 2TN",
+ },
+	{
+		"name": "London South Bank University",
+		"postcode": "SE1 0AA",
+ },
+	{
+		"name": "King's College London",
+		"postcode": "SE1 8WA",
+ },
+	{
+		"name": "Trinity Laban",
+		"postcode": "SE8 3DZ",
+ },
+	{
+		"name": "University of Greenwich",
+		"postcode": "SE10 9LS",
+ },
+	{
+		"name": "Goldsmiths College, University of London",
+		"postcode": "SE14 6NW",
+ },
+	{
+		"name": "Southampton Solent University",
+		"postcode": "SO14 0YN",
+ },
+	{
+		"name": "University of Southampton",
+		"postcode": "SO17 1BJ",
+ },
+	{
+		"name": "University of Winchester",
+		"postcode": "SO22 4NR",
+ },
+	{
+		"name": "University of Sunderland",
+		"postcode": "SR1 3SD",
+ },
+	{
+		"name": "Staffordshire University",
+		"postcode": "ST18 0AD",
+ },
+	{
+		"name": "University of Keele",
+		"postcode": "ST5 5BG",
+ },
+	{
+		"name": "Roehampton University",
+		"postcode": "SW15 5PJ",
+ },
+	{
+		"name": "St George's Hospital Medical School",
+		"postcode": "SW17 0RE",
+ },
+	{
+		"name": "University of the Arts London",
+		"postcode": "SW19 3QA",
+ },
+	{
+		"name": "Imperial College of Science, Technology and Medicine",
+		"postcode": "SW7 2AZ",
+ },
+	{
+		"name": "Royal College of Music",
+		"postcode": "SW7 2BS",
+ },
+	{
+		"name": "Royal College of Art",
+		"postcode": "SW7 2EU",
+ },
+	{
+		"name": "Institute of Cancer Research",
+		"postcode": "SW3 6JB",
+ },
+	{
+		"name": "Harper Adams University",
+		"postcode": "TF10 8NB",
+ },
+	{
+		"name": "Dartington College of Arts",
+		"postcode": "TQ9 6EJ",
+ },
+	{
+		"name": "Teesside University",
+		"postcode": "TS1 3BA",
+ },
+	{
+		"name": "St Mary's University, Twickenham",
+		"postcode": "TW1 4SX",
+ },
+	{
+		"name": "Royal Holloway and Bedford New College",
+		"postcode": "TW20 0EX",
+ },
+	{
+		"name": "Brunel University",
+		"postcode": "UB8 3PH",
+ },
+	{
+		"name": "University of Westminster",
+		"postcode": "W1B 2UW",
+ },
+	{
+		"name": "The Royal College of Nursing",
+		"postcode": "W1G 0RN",
+ },
+	{
+		"name": "University of the Arts London",
+		"postcode": "WC1V 7EY",
+ },
+	{
+		"name": "University of West London",
+		"postcode": "W5 5RF",
+ },
+	{
+		"name": "University College London",
+		"postcode": "WC1E 6BT",
+ },
+	{
+		"name": "London School of Hygiene & Tropical Medicine",
+		"postcode": "WC1E 7HT",
+ },
+	{
+		"name": "University of London",
+		"postcode": "WC1E 7HU",
+ },
+	{
+		"name": "Birkbeck College",
+		"postcode": "WC1E 7HX",
+ },
+	{
+		"name": "Institute of Education",
+		"postcode": "WC1H 0AL",
+ },
+	{
+		"name": "School of Oriental and African Studies",
+		"postcode": "WC1H 0XG",
+ },
+	{
+		"name": "Conservatoire for Dance and Drama",
+		"postcode": "WC1H 0JJ",
+ },
+	{
+		"name": "The School of Pharmacy",
+		"postcode": "WC1N 1AX",
+ },
+	{
+		"name": "London School of Economics and Political Science",
+		"postcode": "WC2A 2AE",
+ },
+	{
+		"name": "University of Worcester",
+		"postcode": "WR2 6AJ",
+ },
+	{
+		"name": "University of Wolverhampton",
+		"postcode": "WV1 1LY",
+ },
+	{
+		"name": "University of York",
+		"postcode": "YO10 5DD",
+ },
+	{
+		"name": "York St John University",
+		"postcode": "YO31 7EX",
+ },
+	{
+		"name": "Courtauld Institute of Art",
+		"postcode": "WC2R 0RN",
+ },
+	{
+		"name": "University of Cumbria",
+		"postcode": "CA3 8TB",
+ },
+	{
+		"name": "Heythrop College",
+		"postcode": "W8 5HQ",
+ },
+	{
+		"name": "Guildhall School of Music and Drama",
+		"postcode": "EC2Y 8DT",
+ },
+	{
+		"name": "Liverpool Institute of Performing Arts",
+		"postcode": "L1 9HF",
+ },
+	{
+		"name": "University of Buckingham",
+		"postcode": "MK18 1EG",
+ }
+]

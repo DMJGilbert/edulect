@@ -1,0 +1,14 @@
+<div class="ui menu">
+    <a ng-href="/" class="item">
+        <i class="home icon"></i>
+        Home
+    </a>
+    <div class="right menu">
+
+    </div>
+</div>
+<div style="text-align:center;">
+    <div ng-click="gotoParty(party.code)" class="ui button" style="margin-top:15px !important; max-width:700px;width:80%;margin:0 auto;" ng-repeat="party in parties">
+        {{ party.name }}
+    </div>
+</div>

@@ -1,0 +1,45 @@
+<div class="ui menu">
+    <a ng-href="/" class="item">
+        <i class="home icon"></i> Home
+    </a>
+    <div class="right menu">
+
+    </div>
+</div>
+<div style="text-align: center;padding-bottom:30px; width:80%;max-width:700px;margin:0 auto;">
+    <img ng-src="{{selectedParty.image}}" style="width:50px;height:auto">
+    <div style="width: 100%; text-align:center;">
+        <h3>{{ selectedParty.name }}</h3>
+    </div>
+
+    <div ng-show="selectedParty.support" style="padding-top:10px; text-align:center">
+        {{ selectedParty.support }}% Current support in the UK
+    </div>
+
+    <div ng-hide="!selectedParty.twitterProfile" style="padding-top:10px; text-align:center">
+        <a target="_blank" ng-href="https://twitter.com/{{ candidate.twitterProfile.screen_name.toLowerCase() }}">@{{ selectedParty.twitterProfile.screen_name }}</a> {{ selectedParty.twitterProfile.followers_count }} followers
+    </div>
+
+    <div ng-hide="!selectedParty.twitterProfile" style="padding-top:10px; text-align:center">
+        <i class="twitter icon"></i> {{ selectedParty.twitterProfile.status.text }}
+    </div>
+
+    <div style="padding-top:10px; text-align:center">
+        <a target="_blank" ng-href="{{selectedParty.url}}">{{ selectedParty.url }}</a>
+    </div>
+
+    <table ng-show="selectedParty.topics.length > 0" style="width: 100%; margin: 15px auto; text-align:center" class="ui table">
+        <thead>
+            <tr>
+                <th style="text-align:center;">Topic</th>
+                <th style="text-align:center;">Trust</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="topic in selectedParty.topics">
+                <td style="text-align:center;">{{ topic.Topic }}</td>
+                <td style="text-align:center;">{{ topic.TopicalTrustFlow+1 }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

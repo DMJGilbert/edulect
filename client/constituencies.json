@@ -1,0 +1,7152 @@
+[
+
+	{
+		"id": 66101,
+
+		"name": "Aberavon",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66085,
+
+		"name": "Aberconwy",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14398,
+
+		"name": "Aberdeen North",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14399,
+
+		"name": "Aberdeen South",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14400,
+
+		"name": "Airdrie and Shotts",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65730,
+
+		"name": "Aldershot",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65773,
+
+		"name": "Aldridge-Brownhills",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65892,
+
+		"name": "Altrincham and Sale West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66103,
+
+		"name": "Alyn and Deeside",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65809,
+
+		"name": "Amber Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14401,
+
+		"name": "Angus",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66108,
+
+		"name": "Arfon",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14402,
+
+		"name": "Argyll and Bute",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65784,
+
+		"name": "Arundel and South Downs",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65895,
+
+		"name": "Ashfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65811,
+
+		"name": "Ashford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66056,
+
+		"name": "Ashton-under-Lyne",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65739,
+
+		"name": "Aylesbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14403,
+
+		"name": "Ayr, Carrick and Cumnock",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66008,
+
+		"name": "Banbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14404,
+
+		"name": "Banff and Buchan",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65662,
+
+		"name": "Barking",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65665,
+
+		"name": "Barnsley Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66012,
+
+		"name": "Barnsley East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66006,
+
+		"name": "Barrow and Furness",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65898,
+
+		"name": "Basildon and Billericay",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65623,
+
+		"name": "Basingstoke",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65711,
+
+		"name": "Bassetlaw",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65798,
+
+		"name": "Bath",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65751,
+
+		"name": "Batley and Spen",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65731,
+
+		"name": "Battersea",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65687,
+
+		"name": "Beaconsfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65725,
+
+		"name": "Beckenham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65561,
+
+		"name": "Bedford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66124,
+
+		"name": "Belfast East",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66125,
+
+		"name": "Belfast North",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66126,
+
+		"name": "Belfast South",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66127,
+
+		"name": "Belfast West",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65689,
+
+		"name": "Bermondsey and Old Southwark",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14405,
+
+		"name": "Berwickshire, Roxburgh and Selkirk",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65726,
+
+		"name": "Berwick-upon-Tweed",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65853,
+
+		"name": "Bethnal Green and Bow",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65934,
+
+		"name": "Beverley and Holderness",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65845,
+
+		"name": "Bexhill and Battle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65611,
+
+		"name": "Bexleyheath and Crayford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65581,
+
+		"name": "Birkenhead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65931,
+
+		"name": "Birmingham, Edgbaston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65667,
+
+		"name": "Birmingham, Erdington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65597,
+
+		"name": "Birmingham, Hall Green",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66072,
+
+		"name": "Birmingham, Hodge Hill",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65989,
+
+		"name": "Birmingham, Ladywood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65966,
+
+		"name": "Birmingham, Northfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66028,
+
+		"name": "Birmingham, Perry Barr",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65804,
+
+		"name": "Birmingham, Selly Oak",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65707,
+
+		"name": "Birmingham, Yardley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65820,
+
+		"name": "Bishop Auckland",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65981,
+
+		"name": "Blackburn",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65583,
+
+		"name": "Blackley and Broughton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65750,
+
+		"name": "Blackpool North and Cleveleys",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65679,
+
+		"name": "Blackpool South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66093,
+
+		"name": "Blaenau Gwent",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65805,
+
+		"name": "Blaydon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65753,
+
+		"name": "Blyth Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65841,
+
+		"name": "Bognor Regis and Littlehampton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65628,
+
+		"name": "Bolsover",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65646,
+
+		"name": "Bolton North East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65712,
+
+		"name": "Bolton South East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65738,
+
+		"name": "Bolton West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65821,
+
+		"name": "Bootle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65969,
+
+		"name": "Boston and Skegness",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66071,
+
+		"name": "Bosworth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65993,
+
+		"name": "Bournemouth East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65933,
+
+		"name": "Bournemouth West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65697,
+
+		"name": "Bracknell",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65694,
+
+		"name": "Bradford East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65995,
+
+		"name": "Bradford South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66036,
+
+		"name": "Bradford West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65670,
+
+		"name": "Braintree",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66088,
+
+		"name": "Brecon and Radnorshire",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66065,
+
+		"name": "Brent Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65958,
+
+		"name": "Brentford and Isleworth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65595,
+
+		"name": "Brent North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65685,
+
+		"name": "Brentwood and Ongar",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66095,
+
+		"name": "Bridgend",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65620,
+
+		"name": "Bridgwater and West Somerset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66000,
+
+		"name": "Brigg and Goole",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65844,
+
+		"name": "Brighton, Kemptown",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65787,
+
+		"name": "Brighton, Pavilion",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65839,
+
+		"name": "Bristol East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66009,
+
+		"name": "Bristol North West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66031,
+
+		"name": "Bristol South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65574,
+
+		"name": "Bristol West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65852,
+
+		"name": "Broadland",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65954,
+
+		"name": "Bromley and Chislehurst",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65617,
+
+		"name": "Bromsgrove",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65639,
+
+		"name": "Broxbourne",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65849,
+
+		"name": "Broxtowe",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65909,
+
+		"name": "Buckingham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65846,
+
+		"name": "Burnley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65708,
+
+		"name": "Burton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66015,
+
+		"name": "Bury North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65975,
+
+		"name": "Bury South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66035,
+
+		"name": "Bury St Edmunds",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66106,
+
+		"name": "Caerphilly",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14406,
+
+		"name": "Caithness, Sutherland and Easter Ross",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65906,
+
+		"name": "Calder Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65913,
+
+		"name": "Camberwell and Peckham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65826,
+
+		"name": "Camborne and Redruth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65927,
+
+		"name": "Cambridge",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65790,
+
+		"name": "Cannock Chase",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65878,
+
+		"name": "Canterbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66090,
+
+		"name": "Cardiff Central",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66120,
+
+		"name": "Cardiff North",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66119,
+
+		"name": "Cardiff South and Penarth",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66114,
+
+		"name": "Cardiff West",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65929,
+
+		"name": "Carlisle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66089,
+
+		"name": "Carmarthen East and Dinefwr",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66109,
+
+		"name": "Carmarthen West and South Pembrokeshire",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65972,
+
+		"name": "Carshalton and Wallington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65914,
+
+		"name": "Castle Point",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14407,
+
+		"name": "Central Ayrshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65749,
+
+		"name": "Central Devon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65748,
+
+		"name": "Central Suffolk and North Ipswich",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66110,
+
+		"name": "Ceredigion",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65615,
+
+		"name": "Charnwood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66075,
+
+		"name": "Chatham and Aylesford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65727,
+
+		"name": "Cheadle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65797,
+
+		"name": "Chelmsford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65818,
+
+		"name": "Chelsea and Fulham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65946,
+
+		"name": "Cheltenham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65801,
+
+		"name": "Chesham and Amersham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65980,
+
+		"name": "Chesterfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65558,
+
+		"name": "Chichester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65721,
+
+		"name": "Chingford and Woodford Green",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65940,
+
+		"name": "Chippenham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65886,
+
+		"name": "Chipping Barnet",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65792,
+
+		"name": "Chorley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65885,
+
+		"name": "Christchurch",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65759,
+
+		"name": "Cities of London and Westminster",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65734,
+
+		"name": "City of Chester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66021,
+
+		"name": "City of Durham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66030,
+
+		"name": "Clacton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66057,
+
+		"name": "Cleethorpes",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66121,
+
+		"name": "Clwyd South",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66100,
+
+		"name": "Clwyd West",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14408,
+
+		"name": "Coatbridge, Chryston and Bellshill",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65926,
+
+		"name": "Colchester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65835,
+
+		"name": "Colne Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65771,
+
+		"name": "Congleton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65893,
+
+		"name": "Copeland",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65590,
+
+		"name": "Corby",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65636,
+
+		"name": "Coventry North East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65575,
+
+		"name": "Coventry North West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65877,
+
+		"name": "Coventry South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65781,
+
+		"name": "Crawley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65572,
+
+		"name": "Crewe and Nantwich",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65603,
+
+		"name": "Croydon Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65867,
+
+		"name": "Croydon North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65923,
+
+		"name": "Croydon South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14409,
+
+		"name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66105,
+
+		"name": "Cynon Valley",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65985,
+
+		"name": "Dagenham and Rainham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65802,
+
+		"name": "Darlington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66011,
+
+		"name": "Dartford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66025,
+
+		"name": "Daventry",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66112,
+
+		"name": "Delyn",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65924,
+
+		"name": "Denton and Reddish",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66070,
+
+		"name": "Derby North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65799,
+
+		"name": "Derbyshire Dales",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65863,
+
+		"name": "Derby South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65723,
+
+		"name": "Devizes",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65746,
+
+		"name": "Dewsbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65621,
+
+		"name": "Doncaster Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65672,
+
+		"name": "Doncaster North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65553,
+
+		"name": "Don Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65555,
+
+		"name": "Dover",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65806,
+
+		"name": "Dudley North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66054,
+
+		"name": "Dudley South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65808,
+
+		"name": "Dulwich and West Norwood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14410,
+
+		"name": "Dumfries and Galloway",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14411,
+
+		"name": "Dumfriesshire, Clydesdale and Tweeddale",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14412,
+
+		"name": "Dundee East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14413,
+
+		"name": "Dundee West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14414,
+
+		"name": "Dunfermline and West Fife",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66096,
+
+		"name": "Dwyfor Meirionnydd",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65755,
+
+		"name": "Ealing Central and Acton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65701,
+
+		"name": "Ealing North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65794,
+
+		"name": "Ealing, Southall",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65823,
+
+		"name": "Easington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66128,
+
+		"name": "East Antrim",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65714,
+
+		"name": "Eastbourne",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65813,
+
+		"name": "East Devon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14415,
+
+		"name": "East Dunbartonshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65573,
+
+		"name": "East Ham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65569,
+
+		"name": "East Hampshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14416,
+
+		"name": "East Kilbride, Strathaven and Lesmahagow",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65881,
+
+		"name": "Eastleigh",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66129,
+
+		"name": "East Londonderry",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14417,
+
+		"name": "East Lothian",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14418,
+
+		"name": "East Renfrewshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65856,
+
+		"name": "East Surrey",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65780,
+
+		"name": "East Worthing and Shoreham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65979,
+
+		"name": "East Yorkshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65756,
+
+		"name": "Eddisbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14419,
+
+		"name": "Edinburgh East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14420,
+
+		"name": "Edinburgh North and Leith",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14421,
+
+		"name": "Edinburgh South",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14422,
+
+		"name": "Edinburgh South West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14423,
+
+		"name": "Edinburgh West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65570,
+
+		"name": "Edmonton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65991,
+
+		"name": "Ellesmere Port and Neston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65677,
+
+		"name": "Elmet and Rothwell",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65816,
+
+		"name": "Eltham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66050,
+
+		"name": "Enfield North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65567,
+
+		"name": "Enfield, Southgate",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66044,
+
+		"name": "Epping Forest",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65803,
+
+		"name": "Epsom and Ewell",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65743,
+
+		"name": "Erewash",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66023,
+
+		"name": "Erith and Thamesmead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66062,
+
+		"name": "Esher and Walton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66033,
+
+		"name": "Exeter",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14424,
+
+		"name": "Falkirk",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65857,
+
+		"name": "Fareham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65764,
+
+		"name": "Faversham and Mid Kent",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65655,
+
+		"name": "Feltham and Heston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66130,
+
+		"name": "Fermanagh and South Tyrone",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65865,
+
+		"name": "Filton and Bradley Stoke",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65938,
+
+		"name": "Finchley and Golders Green",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65779,
+
+		"name": "Folkestone and Hythe",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66064,
+
+		"name": "Forest of Dean",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66131,
+
+		"name": "Foyle",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65955,
+
+		"name": "Fylde",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65952,
+
+		"name": "Gainsborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65900,
+
+		"name": "Garston and Halewood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65870,
+
+		"name": "Gateshead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65551,
+
+		"name": "Gedling",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65864,
+
+		"name": "Gillingham and Rainham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14425,
+
+		"name": "Glasgow Central",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14426,
+
+		"name": "Glasgow East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14427,
+
+		"name": "Glasgow North",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14428,
+
+		"name": "Glasgow North East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14429,
+
+		"name": "Glasgow North West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14430,
+
+		"name": "Glasgow South",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14431,
+
+		"name": "Glasgow South West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14432,
+
+		"name": "Glenrothes",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65996,
+
+		"name": "Gloucester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14433,
+
+		"name": "Gordon",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65928,
+
+		"name": "Gosport",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66083,
+
+		"name": "Gower",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65683,
+
+		"name": "Grantham and Stamford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65944,
+
+		"name": "Gravesham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65600,
+
+		"name": "Great Grimsby",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65627,
+
+		"name": "Great Yarmouth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65837,
+
+		"name": "Greenwich and Woolwich",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65838,
+
+		"name": "Guildford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65550,
+
+		"name": "Hackney North and Stoke Newington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65752,
+
+		"name": "Hackney South and Shoreditch",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65971,
+
+		"name": "Halesowen and Rowley Regis",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65599,
+
+		"name": "Halifax",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65671,
+
+		"name": "Haltemprice and Howden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65915,
+
+		"name": "Halton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65836,
+
+		"name": "Hammersmith",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65576,
+
+		"name": "Hampstead and Kilburn",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65675,
+
+		"name": "Harborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65875,
+
+		"name": "Harlow",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65578,
+
+		"name": "Harrogate and Knaresborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65650,
+
+		"name": "Harrow East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65796,
+
+		"name": "Harrow West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65990,
+
+		"name": "Hartlepool",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65674,
+
+		"name": "Harwich and North Essex",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65640,
+
+		"name": "Hastings and Rye",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65699,
+
+		"name": "Havant",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65912,
+
+		"name": "Hayes and Harlington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65557,
+
+		"name": "Hazel Grove",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65967,
+
+		"name": "Hemel Hempstead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66018,
+
+		"name": "Hemsworth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65754,
+
+		"name": "Hendon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65786,
+
+		"name": "Henley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65582,
+
+		"name": "Hereford and South Herefordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66003,
+
+		"name": "Hertford and Stortford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65994,
+
+		"name": "Hertsmere",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65850,
+
+		"name": "Hexham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65814,
+
+		"name": "Heywood and Middleton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66052,
+
+		"name": "High Peak",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65724,
+
+		"name": "Hitchin and Harpenden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65824,
+
+		"name": "Holborn and St Pancras",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66069,
+
+		"name": "Hornchurch and Upminster",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65883,
+
+		"name": "Hornsey and Wood Green",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65717,
+
+		"name": "Horsham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65947,
+
+		"name": "Houghton and Sunderland South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65691,
+
+		"name": "Hove",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65624,
+
+		"name": "Huddersfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65592,
+
+		"name": "Huntingdon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65899,
+
+		"name": "Hyndburn",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65630,
+
+		"name": "Ilford North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65585,
+
+		"name": "Ilford South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14434,
+
+		"name": "Inverclyde",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14435,
+
+		"name": "Inverness, Nairn, Badenoch and Strathspey",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65925,
+
+		"name": "Ipswich",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65791,
+
+		"name": "Isle of Wight",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65937,
+
+		"name": "Islington North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65882,
+
+		"name": "Islington South and Finsbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66097,
+
+		"name": "Islwyn",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66026,
+
+		"name": "Jarrow",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65871,
+
+		"name": "Keighley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65968,
+
+		"name": "Kenilworth and Southam",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65939,
+
+		"name": "Kensington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66001,
+
+		"name": "Kettering",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14436,
+
+		"name": "Kilmarnock and Loudoun",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65778,
+
+		"name": "Kingston and Surbiton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65709,
+
+		"name": "Kingston upon Hull East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65618,
+
+		"name": "Kingston upon Hull North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65984,
+
+		"name": "Kingston upon Hull West and Hessle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66053,
+
+		"name": "Kingswood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14437,
+
+		"name": "Kirkcaldy and Cowdenbeath",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65869,
+
+		"name": "Knowsley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66132,
+
+		"name": "Lagan Valley",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14438,
+
+		"name": "Lanark and Hamilton East",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65568,
+
+		"name": "Lancaster and Fleetwood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65765,
+
+		"name": "Leeds Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65941,
+
+		"name": "Leeds East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65866,
+
+		"name": "Leeds North East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66068,
+
+		"name": "Leeds North West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65988,
+
+		"name": "Leeds West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65807,
+
+		"name": "Leicester East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65604,
+
+		"name": "Leicester South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65587,
+
+		"name": "Leicester West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65978,
+
+		"name": "Leigh",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66020,
+
+		"name": "Lewes",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66041,
+
+		"name": "Lewisham, Deptford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65705,
+
+		"name": "Lewisham East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65616,
+
+		"name": "Lewisham West and Penge",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66013,
+
+		"name": "Leyton and Wanstead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66046,
+
+		"name": "Lichfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65704,
+
+		"name": "Lincoln",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14439,
+
+		"name": "Linlithgow and East Falkirk",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66066,
+
+		"name": "Liverpool, Riverside",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65970,
+
+		"name": "Liverpool, Walton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65644,
+
+		"name": "Liverpool, Wavertree",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65766,
+
+		"name": "Liverpool, West Derby",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14440,
+
+		"name": "Livingston",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66117,
+
+		"name": "Llanelli",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65785,
+
+		"name": "Loughborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65987,
+
+		"name": "Louth and Horncastle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65690,
+
+		"name": "Ludlow",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65887,
+
+		"name": "Luton North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66080,
+
+		"name": "Luton South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65896,
+
+		"name": "Macclesfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65901,
+
+		"name": "Maidenhead",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65936,
+
+		"name": "Maidstone and The Weald",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65645,
+
+		"name": "Makerfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65661,
+
+		"name": "Maldon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66048,
+
+		"name": "Manchester Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65834,
+
+		"name": "Manchester, Gorton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65819,
+
+		"name": "Manchester, Withington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65647,
+
+		"name": "Mansfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65772,
+
+		"name": "Meon Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65932,
+
+		"name": "Meriden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66086,
+
+		"name": "Merthyr Tydfil and Rhymney",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65718,
+
+		"name": "Mid Bedfordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66007,
+
+		"name": "Mid Derbyshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65998,
+
+		"name": "Middlesbrough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65657,
+
+		"name": "Middlesbrough South and East Cleveland",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66061,
+
+		"name": "Mid Dorset and North Poole",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14441,
+
+		"name": "Midlothian",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65949,
+
+		"name": "Mid Norfolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65999,
+
+		"name": "Mid Sussex",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66133,
+
+		"name": "Mid Ulster",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65888,
+
+		"name": "Mid Worcestershire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65953,
+
+		"name": "Milton Keynes North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66076,
+
+		"name": "Milton Keynes South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66038,
+
+		"name": "Mitcham and Morden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65693,
+
+		"name": "Mole Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66084,
+
+		"name": "Monmouth",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66111,
+
+		"name": "Montgomeryshire",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14442,
+
+		"name": "Moray",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65633,
+
+		"name": "Morecambe and Lunesdale",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65735,
+
+		"name": "Morley and Outwood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14443,
+
+		"name": "Motherwell and Wishaw",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14444,
+
+		"name": "Na h-Eileanan an Iar",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66082,
+
+		"name": "Neath",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65696,
+
+		"name": "Newark",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65862,
+
+		"name": "Newbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65861,
+
+		"name": "Newcastle-under-Lyme",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66055,
+
+		"name": "Newcastle upon Tyne Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65594,
+
+		"name": "Newcastle upon Tyne East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65664,
+
+		"name": "Newcastle upon Tyne North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65556,
+
+		"name": "New Forest East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65815,
+
+		"name": "New Forest West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66094,
+
+		"name": "Newport East",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66099,
+
+		"name": "Newport West",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66134,
+
+		"name": "Newry and Armagh",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65828,
+
+		"name": "Newton Abbot",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65918,
+
+		"name": "Normanton, Pontefract and Castleford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66059,
+
+		"name": "Northampton North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65910,
+
+		"name": "Northampton South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66135,
+
+		"name": "North Antrim",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14445,
+
+		"name": "North Ayrshire and Arran",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65602,
+
+		"name": "North Cornwall",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65658,
+
+		"name": "North Devon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65702,
+
+		"name": "North Dorset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66136,
+
+		"name": "North Down",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65745,
+
+		"name": "North Durham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65855,
+
+		"name": "North East Bedfordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66063,
+
+		"name": "North East Cambridgeshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65676,
+
+		"name": "North East Derbyshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14446,
+
+		"name": "North East Fife",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65729,
+
+		"name": "North East Hampshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65840,
+
+		"name": "North East Hertfordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65619,
+
+		"name": "North East Somerset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65642,
+
+		"name": "North Herefordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65872,
+
+		"name": "North Norfolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66017,
+
+		"name": "North Shropshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65817,
+
+		"name": "North Somerset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65760,
+
+		"name": "North Swindon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65605,
+
+		"name": "North Thanet",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65720,
+
+		"name": "North Tyneside",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66024,
+
+		"name": "North Warwickshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65565,
+
+		"name": "North West Cambridgeshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65859,
+
+		"name": "North West Durham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65894,
+
+		"name": "North West Hampshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65776,
+
+		"name": "North West Leicestershire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65713,
+
+		"name": "North West Norfolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65822,
+
+		"name": "North Wiltshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65768,
+
+		"name": "Norwich North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65634,
+
+		"name": "Norwich South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65559,
+
+		"name": "Nottingham East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65643,
+
+		"name": "Nottingham North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65945,
+
+		"name": "Nottingham South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65663,
+
+		"name": "Nuneaton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14447,
+
+		"name": "Ochil and South Perthshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66107,
+
+		"name": "Ogmore",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65653,
+
+		"name": "Old Bexley and Sidcup",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65903,
+
+		"name": "Oldham East and Saddleworth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66022,
+
+		"name": "Oldham West and Royton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14448,
+
+		"name": "Orkney and Shetland",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65682,
+
+		"name": "Orpington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66060,
+
+		"name": "Oxford East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65564,
+
+		"name": "Oxford West and Abingdon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14449,
+
+		"name": "Paisley and Renfrewshire North",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14450,
+
+		"name": "Paisley and Renfrewshire South",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65668,
+
+		"name": "Pendle",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66002,
+
+		"name": "Penistone and Stocksbridge",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66081,
+
+		"name": "Penrith and The Border",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14451,
+
+		"name": "Perth and North Perthshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65649,
+
+		"name": "Peterborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65974,
+
+		"name": "Plymouth, Moor View",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65737,
+
+		"name": "Plymouth, Sutton and Devonport",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66087,
+
+		"name": "Pontypridd",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65860,
+
+		"name": "Poole",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65917,
+
+		"name": "Poplar and Limehouse",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65566,
+
+		"name": "Portsmouth North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66014,
+
+		"name": "Portsmouth South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66102,
+
+		"name": "Preseli Pembrokeshire",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65673,
+
+		"name": "Preston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65637,
+
+		"name": "Pudsey",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66045,
+
+		"name": "Putney",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65795,
+
+		"name": "Rayleigh and Wickford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65973,
+
+		"name": "Reading East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65982,
+
+		"name": "Reading West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66032,
+
+		"name": "Redcar",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65700,
+
+		"name": "Redditch",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66005,
+
+		"name": "Reigate",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66092,
+
+		"name": "Rhondda",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65579,
+
+		"name": "Ribble Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65598,
+
+		"name": "Richmond Park",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65722,
+
+		"name": "Richmond (Yorks)",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65843,
+
+		"name": "Rochdale",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66043,
+
+		"name": "Rochester and Strood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65584,
+
+		"name": "Rochford and Southend East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66077,
+
+		"name": "Romford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65884,
+
+		"name": "Romsey and Southampton North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66019,
+
+		"name": "Rossendale and Darwen",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14452,
+
+		"name": "Ross, Skye and Lochaber",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66029,
+
+		"name": "Rotherham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65930,
+
+		"name": "Rother Valley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65656,
+
+		"name": "Rugby",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65681,
+
+		"name": "Ruislip, Northwood and Pinner",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65589,
+
+		"name": "Runnymede and Weybridge",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65736,
+
+		"name": "Rushcliffe",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14453,
+
+		"name": "Rutherglen and Hamilton West",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65833,
+
+		"name": "Rutland and Melton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65654,
+
+		"name": "Saffron Walden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65688,
+
+		"name": "Salford and Eccles",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65889,
+
+		"name": "Salisbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65891,
+
+		"name": "Scarborough and Whitby",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66027,
+
+		"name": "Scunthorpe",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65763,
+
+		"name": "Sedgefield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65706,
+
+		"name": "Sefton Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65842,
+
+		"name": "Selby and Ainsty",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65698,
+
+		"name": "Sevenoaks",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65601,
+
+		"name": "Sheffield, Brightside and Hillsborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65957,
+
+		"name": "Sheffield Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65741,
+
+		"name": "Sheffield, Hallam",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65549,
+
+		"name": "Sheffield, Heeley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65793,
+
+		"name": "Sheffield South East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65632,
+
+		"name": "Sherwood",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65959,
+
+		"name": "Shipley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65563,
+
+		"name": "Shrewsbury and Atcham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65610,
+
+		"name": "Sittingbourne and Sheppey",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65986,
+
+		"name": "Skipton and Ripon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65920,
+
+		"name": "Sleaford and North Hykeham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65680,
+
+		"name": "Slough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65879,
+
+		"name": "Solihull",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65812,
+
+		"name": "Somerton and Frome",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66016,
+
+		"name": "Southampton, Itchen",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65580,
+
+		"name": "Southampton, Test",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66137,
+
+		"name": "South Antrim",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65962,
+
+		"name": "South Basildon and East Thurrock",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65922,
+
+		"name": "South Cambridgeshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65762,
+
+		"name": "South Derbyshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65788,
+
+		"name": "South Dorset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66138,
+
+		"name": "South Down",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65997,
+
+		"name": "South East Cambridgeshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65684,
+
+		"name": "South East Cornwall",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65876,
+
+		"name": "Southend West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66051,
+
+		"name": "South Holland and The Deepings",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66034,
+
+		"name": "South Leicestershire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65666,
+
+		"name": "South Norfolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65902,
+
+		"name": "South Northamptonshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65728,
+
+		"name": "Southport",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65951,
+
+		"name": "South Ribble",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65719,
+
+		"name": "South Shields",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65943,
+
+		"name": "South Staffordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65614,
+
+		"name": "South Suffolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65800,
+
+		"name": "South Swindon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65829,
+
+		"name": "South Thanet",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65848,
+
+		"name": "South West Bedfordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65775,
+
+		"name": "South West Devon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65596,
+
+		"name": "South West Hertfordshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65652,
+
+		"name": "South West Norfolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65678,
+
+		"name": "South West Surrey",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65956,
+
+		"name": "South West Wiltshire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65942,
+
+		"name": "Spelthorne",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66067,
+
+		"name": "Stafford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65907,
+
+		"name": "Staffordshire Moorlands",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65715,
+
+		"name": "St Albans",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65960,
+
+		"name": "Stalybridge and Hyde",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65591,
+
+		"name": "St Austell and Newquay",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65571,
+
+		"name": "Stevenage",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66073,
+
+		"name": "St Helens North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65732,
+
+		"name": "St Helens South and Whiston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14454,
+
+		"name": "Stirling",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65854,
+
+		"name": "St Ives",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65606,
+
+		"name": "Stockport",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65641,
+
+		"name": "Stockton North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65908,
+
+		"name": "Stockton South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65710,
+
+		"name": "Stoke-on-Trent Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65783,
+
+		"name": "Stoke-on-Trent North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65770,
+
+		"name": "Stoke-on-Trent South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65950,
+
+		"name": "Stone",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65609,
+
+		"name": "Stourbridge",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66139,
+
+		"name": "Strangford",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65648,
+
+		"name": "Stratford-on-Avon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66042,
+
+		"name": "Streatham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65911,
+
+		"name": "Stretford and Urmston",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65858,
+
+		"name": "Stroud",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65607,
+
+		"name": "Suffolk Coastal",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65586,
+
+		"name": "Sunderland Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65747,
+
+		"name": "Surrey Heath",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66040,
+
+		"name": "Sutton and Cheam",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65703,
+
+		"name": "Sutton Coldfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66091,
+
+		"name": "Swansea East",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66118,
+
+		"name": "Swansea West",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65880,
+
+		"name": "Tamworth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65964,
+
+		"name": "Tatton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65767,
+
+		"name": "Taunton Deane",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65992,
+
+		"name": "Telford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65976,
+
+		"name": "Tewkesbury",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65789,
+
+		"name": "The Cotswolds",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65977,
+
+		"name": "The Wrekin",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65686,
+
+		"name": "Thirsk and Malton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65905,
+
+		"name": "Thornbury and Yate",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65919,
+
+		"name": "Thurrock",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65761,
+
+		"name": "Tiverton and Honiton",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65744,
+
+		"name": "Tonbridge and Malling",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65554,
+
+		"name": "Tooting",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65692,
+
+		"name": "Torbay",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66104,
+
+		"name": "Torfaen",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65904,
+
+		"name": "Torridge and West Devon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65810,
+
+		"name": "Totnes",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66074,
+
+		"name": "Tottenham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65659,
+
+		"name": "Truro and Falmouth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65660,
+
+		"name": "Tunbridge Wells",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65782,
+
+		"name": "Twickenham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65868,
+
+		"name": "Tynemouth",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66140,
+
+		"name": "Upper Bann",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65613,
+
+		"name": "Uxbridge and South Ruislip",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66116,
+
+		"name": "Vale of Clwyd",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66098,
+
+		"name": "Vale of Glamorgan",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65825,
+
+		"name": "Vauxhall",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65733,
+
+		"name": "Wakefield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65635,
+
+		"name": "Wallasey",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65890,
+
+		"name": "Walsall North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65832,
+
+		"name": "Walsall South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65651,
+
+		"name": "Walthamstow",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65631,
+
+		"name": "Wansbeck",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65638,
+
+		"name": "Wantage",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66079,
+
+		"name": "Warley",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65874,
+
+		"name": "Warrington North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65916,
+
+		"name": "Warrington South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65608,
+
+		"name": "Warwick and Leamington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66049,
+
+		"name": "Washington and Sunderland West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65626,
+
+		"name": "Watford",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66004,
+
+		"name": "Waveney",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65961,
+
+		"name": "Wealden",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65769,
+
+		"name": "Weaver Vale",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65830,
+
+		"name": "Wellingborough",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65560,
+
+		"name": "Wells",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65740,
+
+		"name": "Welwyn Hatfield",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65588,
+
+		"name": "Wentworth and Dearne",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14455,
+
+		"name": "West Aberdeenshire and Kincardine",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65983,
+
+		"name": "West Bromwich East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66047,
+
+		"name": "West Bromwich West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65716,
+
+		"name": "West Dorset",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 14456,
+
+		"name": "West Dunbartonshire",
+		"country": "S",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 2,
+		"country_name": "Scotland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66058,
+
+		"name": "West Ham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65873,
+
+		"name": "West Lancashire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65851,
+
+		"name": "Westminster North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65963,
+
+		"name": "Westmorland and Lonsdale",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65742,
+
+		"name": "Weston-Super-Mare",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65629,
+
+		"name": "West Suffolk",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66141,
+
+		"name": "West Tyrone",
+		"country": "N",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Northern Ireland",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65758,
+
+		"name": "West Worcestershire",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65612,
+
+		"name": "Wigan",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65827,
+
+		"name": "Wimbledon",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65921,
+
+		"name": "Winchester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65552,
+
+		"name": "Windsor",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65847,
+
+		"name": "Wirral South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65897,
+
+		"name": "Wirral West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65831,
+
+		"name": "Witham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65622,
+
+		"name": "Witney",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66039,
+
+		"name": "Woking",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65774,
+
+		"name": "Wokingham",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65777,
+
+		"name": "Wolverhampton North East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65593,
+
+		"name": "Wolverhampton South East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65948,
+
+		"name": "Wolverhampton South West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65577,
+
+		"name": "Worcester",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65625,
+
+		"name": "Workington",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65757,
+
+		"name": "Worsley and Eccles South",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65562,
+
+		"name": "Worthing West",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66113,
+
+		"name": "Wrexham",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66010,
+
+		"name": "Wycombe",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65695,
+
+		"name": "Wyre and Preston North",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66078,
+
+		"name": "Wyre Forest",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65669,
+
+		"name": "Wythenshawe and Sale East",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65935,
+
+		"name": "Yeovil",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66115,
+
+		"name": "Ynys Môn",
+		"country": "W",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "Wales",
+		"type": "WMC"
+	},
+
+	{
+		"id": 65965,
+
+		"name": "York Central",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	},
+
+	{
+		"id": 66037,
+
+		"name": "York Outer",
+		"country": "E",
+		"type_name": "UK Parliament constituency",
+		"generation_low": 13,
+		"country_name": "England",
+		"type": "WMC"
+	}
+]

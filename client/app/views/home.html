@@ -1,0 +1,53 @@
+<div style="text-align:center; height: 100%;">
+    <img style="width:300px; height:auto;padding-top:15px;padding-bottom:30px;" src="/assets/images/edulect.svg">
+
+    <div ng-show="registerClosesIn > 0">Registering to vote closes in</div>
+    <div ng-show="registerClosesIn > 0" style="padding-bottom:30px">
+        <h3>{{ registerClosesRemaining }}</h3>
+    </div>
+
+    <div ng-show="pollsOpenIn > 0">Polling stations open in</div>
+    <div ng-show="pollsOpenIn > 0" style="padding-bottom:30px">
+        <h3>{{ pollOpenRemaining }}</h3>
+    </div>
+
+    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0">Polling stations close in</div>
+    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0" style="padding-bottom:30px">
+        <h3>{{ pollCloseRemaining }}</h3>
+    </div>
+
+    <div class="ui top attached tabular menu">
+        <div ng-click="university = false; postcode = true; constituency = false;" ng-class="{active: postcode}" class="item">Search by postcode</div>
+        <div ng-click="university = false; postcode = false; constituency = true;" ng-class="{active: constituency}" class="item">Search by constituency</div>
+        <div ng-click="university = true; postcode = false; constituency = false;" ng-class="{active: university}" class="item">Search by University</div>
+    </div>
+    
+    <ul id="js-news" class="js-hidden"></ul>
+
+    <div ng-show="postcode" class="searchArea">
+        <div style="width: 100%;" class="ui action input">
+            <input ng-model="myPostcode" type="text" placeholder="Postcode...">
+            <button ng-click="gotoPostcode()" class="ui right icon button">
+                <i class="map large icon"></i>
+            </button>
+        </div>
+    </div>
+
+    <div ng-show="constituency" class="searchArea ui fluid search selection dropdown">
+        <input type="hidden" name="uni">
+        <i class="dropdown icon"></i>
+        <div class="default text">Constituency...</div>
+        <div class="menu">
+            <div ng-click="gotoUniPostcode(constituency)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
+        </div>
+    </div>
+
+    <div ng-show="university" class="searchArea ui fluid search selection dropdown">
+        <input type="hidden" name="uni">
+        <i class="dropdown icon"></i>
+        <div class="default text">University...</div>
+        <div class="menu">
+            <div ng-click="gotoUniPostcode(university)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>edulect</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<base href="/" />
+	<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+
+	<!-- build:css styles/libraries.min.css -->
+	<!-- bower:css -->
+	<link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" />
+	<link rel="stylesheet" href="bower_components/semantic-ui/dist/semantic.css" />
+    <link href="/app/styles/ticker-style.css" rel="stylesheet" type="text/css" />
+	<!-- endbower -->
+	<!-- endbuild -->
+	<link href="/app/styles/app.css" rel="stylesheet" media="screen">
+	<!-- endbuild -->
+</head>
+<!--[if lt IE 10]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+
+<body ng-app="edulectApp" ng-controller="RootController">
+	<div ng-view class="main browser"></div>
+
+	<!-- build:js scripts/vendor.js -->
+	<!-- bower:js -->
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/angular-resource/angular-resource.js"></script>
+	<script src="bower_components/angular-cookies/angular-cookies.js"></script>
+	<script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+	<script src="bower_components/angular-route/angular-route.js"></script>
+	<script src="bower_components/lodash/dist/lodash.compat.js"></script>
+	<script src="bower_components/semantic-ui/dist/semantic.js"></script>
+    <script src="http://js.arcgis.com/3.13/"></script>
+    <script src="/app/scripts/jquery.ticker.js"></script>
+	<!-- endbower -->
+	<!-- endbuild -->
+
+	<!-- build:js scripts/main.js -->
+	<!-- bower:js -->
+	<script src="/app/scripts/app.js"></script>
+	<script src="/app/scripts/controllers/rootController.js"></script>
+	<script src="/app/scripts/controllers/homeController.js"></script>
+    <script src="/app/scripts/controllers/partyController.js"></script>
+    <script src="/app/scripts/controllers/partiesController.js"></script>
+    <script src="/app/scripts/controllers/postcodeController.js"></script>
+	<script src="/app/scripts/services/resourceService.js"></script>
+    <script src="/app/scripts/services/postcodeService.js"></script>
+    <script src="/app/scripts/services/candidateService.js"></script>
+    <script src="/app/scripts/services/universityService.js"></script>
+    <script src="/app/scripts/services/twitterService.js"></script>
+	<!-- endbower -->
+	<!-- endbuild -->
+
+</body>
+
+</html>

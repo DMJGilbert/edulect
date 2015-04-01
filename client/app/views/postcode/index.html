@@ -1,0 +1,85 @@
+<div class="ui menu">
+    <a ng-href="/" class="item">
+        <i class="home icon"></i> Home
+    </a>
+    <div class="right menu">
+
+    </div>
+</div>
+
+<div ng-show="constituency" ng-show="!currentCandidate">
+    <div style="text-align:center">
+        <h3>{{ constituency }}</h3>
+    </div>
+
+    <div style="text-align:center">
+        <strong>Postcode: </strong>{{ postcode }}
+    </div>
+
+    <div style="padding-top:30px;text-align:center">
+        <strong>2015 General Election Candidates</strong>
+    </div>
+    <div style="padding-top:5px;" ng-repeat="candidate in candidates">
+        <div ng-click="showCandidate($index)" style="width: 100%;" class="ui button">
+            <div style="float:none; width: 100%; text-align: center;">
+                {{ candidate.name }}
+            </div>
+            <div style="float:none; width: 100%; text-align: center;">
+                {{ candidate.party }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div ng-show="candidates.length > 0" style="text-align:center;" ng-show="currentCandidate">
+    <div style="text-align:center">
+        <h3>{{ area.name }}</h3>
+    </div>
+
+    <img style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.person_id.image }}">
+
+    <div style="padding-top:10px; text-align:center">
+        {{ candidate.person_id.name }}
+    </div>
+
+    <div style="padding-top:10px; text-align:center">
+        {{ candidate.person_id.party_memberships[2015].name }}
+    </div>
+
+    <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">
+        <a target="_blank" ng-href="https://twitter.com/{{ candidate.twitterProfile.screen_name.toLowerCase() }}">@{{ candidate.twitterProfile.screen_name }}</a> {{ candidate.twitterProfile.followers_count }} followers
+    </div>
+
+    <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">
+        <i class="twitter icon"></i> {{ candidate.twitterProfile.status.text }}
+    </div>
+
+    <div style="padding-top:10px; text-align:center" ng-repeat="link in candidate.person_id.links">
+        <a target="_blank" ng-href="{{link.url}}">{{ link.url }}</a>
+    </div>
+
+    <div style="padding-top:10px; text-align:center">
+        <a target="_blank" ng-href="mailto:{{candidate.person_id.email}}">{{ candidate.person_id.email }}</a>
+    </div>
+
+    <table ng-show="candidate.topics.length > 0" style="width: 80%;max-width: 700px;margin: 15px auto; text-align:center" class="ui table">
+        <thead>
+            <tr>
+                <th style="text-align:center;"><strong>Topic</strong>
+                </th>
+                <th style="text-align:center;"><strong>Trust</strong>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="topic in candidate.topics">
+                <td style="text-align:center;">{{ topic.Topic }}</td>
+                <td style="text-align:center;">{{ topic.TopicalTrustFlow+1 }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div ng-click="hideCandidate()" style="margin-top:10px; width: 100%;" class="ui button">
+        Back
+    </div>
+</div>
