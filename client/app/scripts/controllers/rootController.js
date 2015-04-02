@@ -5,6 +5,8 @@ edulect.controller('RootController', ['$scope', '$rootScope', '$http', '$locatio
         // If user is signed in then redirect back home
         'use strict';
 
+        $rootScope.postcode = '';
+
         $rootScope.shuffle = function (array) {
             var currentIndex = array.length,
                 temporaryValue, randomIndex;

@@ -1,6 +1,9 @@
-<div style="text-align:center; height: 100%;">
+<div style="text-align:center;">
     <img style="width:300px; height:auto;padding-top:15px;padding-bottom:30px;" src="/assets/images/edulect.svg">
 
+    <a style="position: absolute;top: 10px;right: 13px;cursor: pointer;" ng-href="/faq">FAQ</a>
+</div>
+<div ng-show="pollsCloseIn > 0" style="text-align:center; height: 100%;">
     <div ng-show="registerClosesIn > 0">Registering to vote closes in</div>
     <div ng-show="registerClosesIn > 0" style="padding-bottom:30px">
         <h3>{{ registerClosesRemaining }}</h3>
@@ -17,16 +20,16 @@
     </div>
 
     <div class="ui top attached tabular menu">
-        <div ng-click="university = false; postcode = true; constituency = false;" ng-class="{active: postcode}" class="item">Search by postcode</div>
-        <div ng-click="university = false; postcode = false; constituency = true;" ng-class="{active: constituency}" class="item">Search by constituency</div>
-        <div ng-click="university = true; postcode = false; constituency = false;" ng-class="{active: university}" class="item">Search by University</div>
+        <div ng-click="university = false; postcode = true; constituency = false;" ng-class="{active: postcode}" class="item">Postcode</div>
+        <div ng-click="university = false; postcode = false; constituency = true;" ng-class="{active: constituency}" class="item">Constituency</div>
+        <div ng-click="university = true; postcode = false; constituency = false;" ng-class="{active: university}" class="item">University</div>
     </div>
     
     <ul id="js-news" class="js-hidden"></ul>
 
     <div ng-show="postcode" class="searchArea">
         <div style="width: 100%;" class="ui action input">
-            <input ng-model="myPostcode" type="text" placeholder="Postcode...">
+            <input ng-enter="gotoPostcode()" ng-model="myPostcode" type="text" placeholder="Postcode...">
             <button ng-click="gotoPostcode()" class="ui right icon button">
                 <i class="map large icon"></i>
             </button>
@@ -38,7 +41,7 @@
         <i class="dropdown icon"></i>
         <div class="default text">Constituency...</div>
         <div class="menu">
-            <div ng-click="gotoUniPostcode(constituency)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
+            <div ng-click="gotoConstituency(constituency)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
         </div>
     </div>
 
@@ -50,4 +53,12 @@
             <div ng-click="gotoUniPostcode(university)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
         </div>
     </div>
+</div>
+
+<div style="bottom:10px; position:fixed; text-align:center;width:100%;">
+    <a target="_blank" href="http://darrengilbert.rocks">DG</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://maxjmay.co.uk">MJM</a>&nbsp;&amp;&nbsp;<a target="_blank" href="https://www.linkedin.com/profile/view?id=269993245&trk=nav_responsive_tab_profile">JYN</a>
+    <br>
+    <a target="_blank" href="http://facebook.com/edulect"><f class="fa fa-facebook"></i></a>&nbsp;<a target="_blank" href="http://twitter.com/edulect"><f class="fa fa-twitter"></i></a>
+    <br>
+    <a href="mailto:admin@edulect.co.uk">admin@edulect.co.uk</a>
 </div>

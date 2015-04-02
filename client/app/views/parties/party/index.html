@@ -6,7 +6,13 @@
 
     </div>
 </div>
-<div style="text-align: center;padding-bottom:30px; width:80%;max-width:700px;margin:0 auto;">
+
+
+<div ng-show="selectedParty" ng-click="goBack()" style="margin-top:10px; width: 100%;" class="ui button">
+    Back
+</div>
+
+<div ng-show="selectedParty" style="text-align: center;padding-bottom:30px; width:80%;max-width:700px;margin:0 auto;">
     <img ng-src="{{selectedParty.image}}" style="width:50px;height:auto">
     <div style="width: 100%; text-align:center;">
         <h3>{{ selectedParty.name }}</h3>

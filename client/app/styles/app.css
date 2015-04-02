@@ -40,8 +40,8 @@ body {
 }
 
 .searchArea {
-    padding-top: 5%;
-    width: 90%;
+    margin-top: 5% !important;
+    width: 90% !important;
     max-width: 700px;
     margin: 0 auto;
 }
