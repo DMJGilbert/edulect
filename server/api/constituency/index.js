@@ -10,8 +10,10 @@ router.get('/', function (req, res) {
 			if (!error && response.statusCode == 200) {
 				var postcodeData = JSON.parse(body);
 				request('http://yournextmp.popit.mysociety.org/api/v0.1/posts/' + postcodeData.shortcuts.WMC + '?embed=membership.person', function (error, response, body) {
+					console.log(error);
 					if (!error && response.statusCode == 200) {
 						var constituency = JSON.parse(body).result;
+						console.log(constituency);
 						res.jsonp({
 							name: constituency.area.name,
 							candidates: filterCandidates(constituency.memberships, postcodeData.shortcuts.WMC)
@@ -40,18 +42,17 @@ router.get('/', function (req, res) {
 			}
 		})
 	}
-});
-
-router.get('/view', function (req, res) {
-	request('http://yournextmp.popit.mysociety.org/api/v0.1/posts/' + req.query.id + '?embed=membership.person', function (error, response, body) {
-		if (!error && response.statusCode == 200) {
-			var constituency = JSON.parse(body).result;
-			res.jsonp({
-				name: constituency.area.name,
-				candidates: filterCandidates(constituency.memberships, req.query.id)
-			});
-		}
-	});
+	if (req.query.id) {
+		request('http://yournextmp.popit.mysociety.org/api/v0.1/posts/' + req.query.id + '?embed=membership.person', function (error, response, body) {
+			if (!error && response.statusCode == 200) {
+				var constituency = JSON.parse(body).result;
+				res.jsonp({
+					name: constituency.area.name,
+					candidates: filterCandidates(constituency.memberships, req.query.id)
+				});
+			}
+		});
+	}
 });
 
 function filterCandidates(list, id) {

@@ -19,6 +19,7 @@ router.get('/', function (req, res) {
 		request("http://yournextmp.popit.mysociety.org/api/v0.1/search/persons?q=id:" + req.query.id + "&embed=membership.person.membership.organization", function (error, response, body) {
 			if (!error && response.statusCode == 200) {
 				var candidate = JSON.parse(body).result[0];
+				console.log(candidate)
 				request.post('http://enterprise.majesticseo.com/api/json', {
 					form: {
 						app_api_key: process.env.MAJESTICAPI,
@@ -41,7 +42,7 @@ router.get('/', function (req, res) {
 								urls: candidate.memberships[0].person_id.links,
 								topics: (web && web.DataTables ? web.DataTables.Topics.Data : ''),
 								twitter: twitter,
-								party: candidate.party_memberships['2015'].name
+								party: candidate.memberships[0].name
 							});
 						});
 					}
