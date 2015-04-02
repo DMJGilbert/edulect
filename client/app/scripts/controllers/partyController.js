@@ -1,6 +1,6 @@
 /*global edulect, angular, $ */
-edulect.controller('PartyController', ['$scope', '$rootScope', '$http', '$location', '$routeParams', '$interval', 'Party',
-	function partyController($scope, $rootScope, $http, $location, $routeParams, $interval, Party) {
+edulect.controller('PartyController', ['$scope', '$rootScope', '$http', '$location', '$routeParams', '$interval', 'Parties',
+	function partyController($scope, $rootScope, $http, $location, $routeParams, $interval, Parties) {
 		'use strict';
 
         $scope.parties = [{'name':'Labour Party','code':'labour','url':'www.labour.org.uk/','security':'UPYGLAB index','api':'LAB'}, {'name':'Conservative Party','code':'conservatives','url':'https://www.conservatives.com/','security':'UPYGCONS index','api':'CON'}, {'name':'Liberal Democrats','code':'libdem','url':'www.libdems.org.uk/','security':'UPYGLIB index','api':'LIB'}, {'name':'UK Independence Party (UKIP)','code':'ukip','url':'www.ukip.org/','security':'UPYGUKIP index','api':'UKI'}, {'name':'Green Party','code':'greens','url':'https://www.greenparty.org.uk/','security':'UPYGGREE index','api':'GRP'}];        
@@ -9,7 +9,7 @@ edulect.controller('PartyController', ['$scope', '$rootScope', '$http', '$locati
             if ($scope.parties[i].code == $routeParams.partyName) {
                 $scope.selectedParty = $scope.parties[i];
 
-                Party.get({
+                Parties.get({
                     id: $scope.selectedParty.api
                 }, function (data) {
                     console.log(data);
