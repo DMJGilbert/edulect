@@ -30,9 +30,14 @@
     <div ng-show="postcode" class="searchArea">
         <div style="width: 100%;" class="ui action input">
             <input ng-enter="gotoPostcode()" ng-model="myPostcode" type="text" placeholder="Postcode...">
-            <button ng-click="gotoPostcode()" class="ui right icon button">
-                <i class="map large icon"></i>
+            <button ng-click="gotoPostcode()" class="ui right label button">
+                Search
             </button>
+        </div>
+    </div>
+    <div ng-show="postcode" >
+        <div style="width: 100%;" class="ui button">
+            My location
         </div>
     </div>
 
@@ -50,7 +55,7 @@
         <i class="dropdown icon"></i>
         <div class="default text">University...</div>
         <div class="menu">
-            <div ng-click="gotoUniPostcode(university)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
+            <div ng-click="gotoUniPostcode(university.id)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
         </div>
     </div>
 </div>

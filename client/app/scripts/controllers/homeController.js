@@ -3,6 +3,20 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
  function homeController($scope, $rootScope, $http, $location, $routeParams, $timeout, University, Constituencies) {
         'use strict';
 
+            function getLocation() {
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(showPosition);
+                } else {
+                    x.innerHTML = "Geolocation is not supported by this browser.";
+                }
+            }
+            function showPosition(position) {
+                $scope.latitude = position.coords.latitude;
+                $scope.longitude = position.coords.longitude;
+            }
+
+        getLocation();
+
         $scope.postcode = true;
         $scope.constituency = false;
         $scope.university = false;
@@ -73,12 +87,16 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
 
         University.query({}, function (data) {
             $scope.universities = data;
-            $('.ui.dropdown').dropdown();
+            $('.ui.dropdown').dropdown({
+                fullTextSearch: true
+            });
         });
 
         Constituencies.query({}, function (data) {
             $scope.constituencies = data;
-            $('.ui.dropdown').dropdown();
+            $('.ui.dropdown').dropdown({
+                fullTextSearch: true
+            });
         });
 
         $scope.gotoPostcode = function () {
@@ -86,9 +104,12 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
             $location.path("/postcode/" + $scope.myPostcode);
         }
 
-        $scope.gotoUniPostcode = function (uni) {
-            uni.postcode = uni.postcode.replace(/\s/g, '');
-            $location.path("/postcode/" + constituency.postcode);
+        $scope.gotoMyLocation = function () {
+            $location.path("/location/?lat=" + $scope.latitude +'&long=' + $scope.longitude);
+        }
+
+        $scope.gotoConstituency = function (conId) {
+            $location.path("/constituency/" + conId);
         }
 
         $scope.gotoUniPostcode = function (uni) {

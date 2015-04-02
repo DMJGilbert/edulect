@@ -21,24 +21,68 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
             return false;
         }
 
-        if (!$routeParams.postcode) {
-            $location.path('/');
-        }
-
-        Postcode.get({
-            postcode: $routeParams.postcode
-        }, function (data) {
-            if(data.name){
-                $scope.candidates = data.candidates;
-                $scope.constituency = data.name;
-            }else {
+       if ($location.path() == '/postcode/'){
+            if (!$routeParams.postcode) {
                 $location.path('/');
             }
-        }, function (error) {
-            $location.path('/');
-        });
 
-        $scope.postcode = $routeParams.postcode.toUpperCase();
+            Postcode.get({
+                    postcode: $routeParams.postcode
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+
+       } else if ($location.path() == '/constituency/') {
+            if (!$routeParams.id) {
+                $location.path('/');
+            }
+
+            Postcode.get({
+                    id: $routeParams.id
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+
+       } else if ($location.path() == '/location/') {
+            if (!$routeParams.long || !$routeParams.lat) {
+                $location.path('/');
+            }
+
+            Postcode.get({
+                    long: $routeParams.long,
+                    lat: $routeParams.lat
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+       }
+
 
         $scope.numberWithCommas = function (x) {
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");

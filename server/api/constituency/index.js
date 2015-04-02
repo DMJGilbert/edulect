@@ -61,7 +61,7 @@ function filterCandidates(list, id) {
 		console.log(candidate)
 		if (candidate.person_id.party_memberships[2015] && candidate.person_id.standing_in[2015] && candidate.person_id.standing_in[2015].post_id == id) {
 			var person = candidate.person_id;
-			if (!ids.indexOf(person.id)) {
+			if (ids.indexOf(person.id) == -1) {
 				ids.push(person.id);
 				array.push({
 					name: person.name,

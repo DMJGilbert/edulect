@@ -39,6 +39,14 @@ edulect.config(['$routeProvider', '$locationProvider',
 			templateUrl: '/app/views/postcode/',
 			controller: 'PostcodeController'
 		}).
+        when('/constituency/:id', {
+			templateUrl: '/app/views/postcode/',
+			controller: 'PostcodeController'
+		}).
+        when('/location/', {
+			templateUrl: '/app/views/postcode/',
+			controller: 'PostcodeController'
+		}).
         when('/parties/:partyName', {
 			templateUrl: '/app/views/parties/party/',
 			controller: 'PartyController'
