@@ -34,8 +34,9 @@ router.get('/', function (req, res) {
 							var twitter = JSON.parse(response.body);
 							res.send({
 								name: candidate.name,
+								email: candidate.email,
 								gender: candidate.gender,
-								id: candidate.gender,
+								id: candidate.id,
 								image: candidate.image ? candidate.image : 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png',
 								urls: candidate.memberships[0].person_id.links,
 								topics: (web && web.DataTables ? web.DataTables.Topics.Data : ''),
