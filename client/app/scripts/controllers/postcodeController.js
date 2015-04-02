@@ -60,8 +60,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                     $location.path('/');
                 });
 
-                $scope.postcode = $routeParams.postcode.toUpperCase();
-
        } else if ($location.path().indexOf('/location') != -1){
             if (!$routeParams.long || !$routeParams.lat) {
                 $location.path('/');
@@ -80,8 +78,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 }, function (error) {
                     $location.path('/');
                 });
-
-                $scope.postcode = $routeParams.postcode.toUpperCase();
        }
 
 
