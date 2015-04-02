@@ -87,7 +87,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
         $scope.showCandidate = function (index) {
             $scope.currentCandidate = true;
             $scope.candidate = $scope.candidates[index];
-            $scope.getPartyCode(candidate);
+            $scope.getPartyCode($scope.candidate);
 
             Candidate.get({
                 id: $scope.candidates[index].id
