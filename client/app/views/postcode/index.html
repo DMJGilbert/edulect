@@ -11,7 +11,7 @@
     <div class="ui text loader">Requesting constituency</div>
 </div>
 
-<div ng-show="currentCandidate && !candidate" class="ui active inverted dimmer">
+<div ng-show="currentCandidate && !candidate.twitterProfile" class="ui active inverted dimmer">
     <div class="ui text loader">Requesting candidate data</div>
 </div>
 
@@ -55,11 +55,11 @@
         {{ candidate.name }}
     </div>
 
-    <div ng-hide="getPartyCode(candidate)" ng-show="!getPartyCode(candidate.party)" style="padding-top:10px; text-align:center">
+    <div ng-show="!candidate.partyCode" style="padding-top:10px; text-align:center">
         {{ candidate.party }}
     </div>
 
-    <div ng-hide="!getPartyCode(candidate)" ng-show="getPartyCode(candidate)" style="padding-top:10px; text-align:center">
+    <div ng-show="candidate.partyCode" style="padding-top:10px; text-align:center">
         <a ng-href="/parties/{{ candidate.partyCode }}">{{ candidate.party }}</a>
     </div>
 
@@ -84,7 +84,7 @@
             <tr>
                 <th style="text-align:center;"><strong>Topic</strong>
                 </th>
-                <th style="text-align:center;"><strong>Trust</strong>
+                <th style="text-align:center;"><strong>Impact</strong>
                 </th>
             </tr>
         </thead>

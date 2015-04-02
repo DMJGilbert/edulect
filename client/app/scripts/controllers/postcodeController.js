@@ -87,6 +87,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
         $scope.showCandidate = function (index) {
             $scope.currentCandidate = true;
             $scope.candidate = $scope.candidates[index];
+            $scope.getPartyCode(candidate);
 
             Candidate.get({
                 id: $scope.candidates[index].id
@@ -97,6 +98,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
         }
 
         $scope.hideCandidate = function (index) {
+            $scope.candidate.image = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
             $scope.currentCandidate = false;
             $scope.candidate = {};
         }
