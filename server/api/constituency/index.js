@@ -56,15 +56,19 @@ router.get('/view', function (req, res) {
 
 function filterCandidates(list, id) {
 	var array = [];
+	var ids = [];
 	list.forEach(function (candidate) {
 		console.log(candidate)
 		if (candidate.person_id.party_memberships[2015] && candidate.person_id.standing_in[2015] && candidate.person_id.standing_in[2015].post_id == id) {
 			var person = candidate.person_id;
-			array.push({
-				name: person.name,
-				id: person.id,
-				party: candidate.person_id.party_memberships["2015"].name
-			})
+			if (!ids.indexOf(person.id)) {
+				ids.push(person.id);
+				array.push({
+					name: person.name,
+					id: person.id,
+					party: candidate.person_id.party_memberships["2015"].name
+				})
+			}
 		}
 	})
 	return array;
