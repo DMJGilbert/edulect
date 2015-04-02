@@ -302,13 +302,7 @@ module.exports = function (grunt) {
 				// This should be the name of your apps angular module
 				module: 'edulectApp',
 				htmlmin: {
-					collapseBooleanAttributes: true,
-					collapseWhitespace: true,
-					removeAttributeQuotes: true,
-					removeEmptyAttributes: true,
-					removeRedundantAttributes: true,
-					removeScriptTypeAttributes: true,
-					removeStyleLinkTypeAttributes: true
+
 				},
 				usemin: 'app/app.js'
 			},
@@ -346,7 +340,8 @@ module.exports = function (grunt) {
 						'assets/images/{,*/}*.{svg}',
             'assets/images/{,*/}*.{webp}',
             'assets/fonts/**/*',
-            '**/*.html'
+            '**/*.html',
+						'**/*.json'
           ]
         }, {
 					expand: true,
@@ -591,7 +586,6 @@ module.exports = function (grunt) {
     'concat',
     'ngAnnotate',
     'copy:dist',
-    'cdnify',
     'cssmin',
     'uglify',
     'rev',

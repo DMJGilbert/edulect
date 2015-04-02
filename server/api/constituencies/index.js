@@ -5,7 +5,7 @@ var request = require('request');
 var router = express.Router();
 
 router.get('/', function (req, res) {
-	res.sendfile('./client/constituencies.json');
+	res.sendfile('./public/constituencies.json');
 });
 
 module.exports = router;
