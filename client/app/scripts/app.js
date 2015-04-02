@@ -8,6 +8,22 @@
 // create the app, and take any angular modules as parameters
 var edulect = angular.module('edulectApp', ['ngRoute', 'ngResource']);
 
+angular.module('edulectApp').directive('ngEnter', function () {
+	return function (scope, element, attrs) {
+		element.bind("keydown keypress", function (event) {
+			if (event.which === 13) {
+				scope.$apply(function () {
+					scope.$eval(attrs.ngEnter, {
+						'event': event
+					});
+				});
+
+				event.preventDefault();
+			}
+		});
+	};
+});
+
 edulect.config(['$routeProvider', '$locationProvider',
 	function ($routeProvider, $locationProvider) {
 		$routeProvider.
@@ -15,7 +31,19 @@ edulect.config(['$routeProvider', '$locationProvider',
 			templateUrl: '/app/views/home.html',
 			controller: 'HomeController'
 		}).
+		when('/faq', {
+			templateUrl: '/app/views/faq/index.html',
+			controller: 'HomeController'
+		}).
         when('/postcode/:postcode', {
+			templateUrl: '/app/views/postcode/',
+			controller: 'PostcodeController'
+		}).
+        when('/constituency/:id', {
+			templateUrl: '/app/views/postcode/',
+			controller: 'PostcodeController'
+		}).
+        when('/location/', {
 			templateUrl: '/app/views/postcode/',
 			controller: 'PostcodeController'
 		}).

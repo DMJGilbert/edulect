@@ -5,20 +5,85 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
 
         $scope.candidates = [];
 
-        if (!$routeParams.postcode) {
-            $location.path('/');
+        $rootScope.postcode = $routeParams.postcode;
+
+        $scope.parties = [{'name':'Labour Party','code':'labour','url':'www.labour.org.uk/','security':'UPYGLAB index'}, {'name':'Conservative Party','code':'conservatives','url':'https://www.conservatives.com/','security':'UPYGCONS index'}, {'name':'Liberal Democrats','code':'libdem','url':'www.libdems.org.uk/','security':'UPYGLIB index'}, {'name':'UK Independence Party (UKIP)','code':'ukip','url':'www.ukip.org/','security':'UPYGUKIP index'}, {'name':'Green Party','code':'greens','url':'https://www.greenparty.org.uk/','security':'UPYGGREE index'}];
+
+        $scope.getPartyCode = function (candidate){
+            if(candidate){
+                for (var i = 0; i < $scope.parties.length; i += 1) {
+                    if ($scope.parties[i].name == candidate.party){
+                        candidate.partyCode = $scope.parties[i].code;
+                        return true;
+                    }
+                }
+            }
+            return false;
         }
 
-        Postcode.get({
-            postcode: $routeParams.postcode
-        }, function (data) {
-            $scope.candidates = data.candidates;
-            $scope.constituency = data.name;
-        }, function (error) {
-            $location.path('/');
-        });
+        console.log($location.path().indexOf('/postcode'));
+       if ($location.path().indexOf('/postcode') != -1){
+            if (!$routeParams.postcode) {
+                $location.path('/');
+            }
 
-        $scope.postcode = $routeParams.postcode.toUpperCase();
+            Postcode.get({
+                    postcode: $routeParams.postcode
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+
+       } else if ($location.path().indexOf('/constituency') != -1){
+            if (!$routeParams.id) {
+                $location.path('/');
+            }
+
+            Postcode.get({
+                    id: $routeParams.id
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+
+       } else if ($location.path().indexOf('/location') != -1){
+            if (!$routeParams.long || !$routeParams.lat) {
+                $location.path('/');
+            }
+
+            Postcode.get({
+                    long: $routeParams.long,
+                    lat: $routeParams.lat
+                }, function (data) {
+                    if(data.name){
+                        $scope.candidates = data.candidates;
+                        $scope.constituency = data.name;
+                    }else {
+                        $location.path('/');
+                    }
+                }, function (error) {
+                    $location.path('/');
+                });
+
+                $scope.postcode = $routeParams.postcode.toUpperCase();
+       }
+
 
         $scope.numberWithCommas = function (x) {
             return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");

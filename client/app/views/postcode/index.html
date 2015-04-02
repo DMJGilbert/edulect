@@ -1,10 +1,22 @@
 <div class="ui menu">
     <a ng-href="/" class="item">
-        <i class="home icon"></i> Home
+        Home
     </a>
     <div class="right menu">
 
     </div>
+</div>
+
+ <div ng-show="!currentCandidate && !constituency" class="ui active inverted dimmer">
+    <div class="ui text loader">Requesting constituency</div>
+</div>
+
+<div ng-show="currentCandidate && !candidate" class="ui active inverted dimmer">
+    <div class="ui text loader">Requesting candidate data</div>
+</div>
+
+<div ng-show="currentCandidate" ng-click="hideCandidate()" style="margin-top:10px; width: 100%;" class="ui button">
+    Back
 </div>
 
 <div ng-show="constituency && !currentCandidate">
@@ -19,6 +31,7 @@
     <div style="padding-top:30px;text-align:center">
         <strong>2015 General Election Candidates</strong>
     </div>
+
     <div style="padding-top:5px;" ng-repeat="candidate in candidates">
         <div ng-click="showCandidate($index)" style="width: 100%;" class="ui button">
             <div style="float:none; width: 100%; text-align: center;">
@@ -42,8 +55,12 @@
         {{ candidate.name }}
     </div>
 
-    <div style="padding-top:10px; text-align:center">
+    <div ng-hide="getPartyCode(candidate)" ng-show="!getPartyCode(candidate.party)" style="padding-top:10px; text-align:center">
         {{ candidate.party }}
+    </div>
+
+    <div ng-hide="!getPartyCode(candidate)" ng-show="getPartyCode(candidate)" style="padding-top:10px; text-align:center">
+        <a ng-href="/parties/{{ candidate.partyCode }}">{{ candidate.party }}</a>
     </div>
 
     <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">
@@ -55,11 +72,11 @@
     </div>
 
     <div style="padding-top:10px; text-align:center" ng-repeat="url in candidate.urls">
-        <a target="_blank" ng-href="{{url.url}}">{{ link.url }}</a>
+        <a target="_blank" ng-href="{{url.url}}">{{ url.url }}</a>
     </div>
 
     <div style="padding-top:10px; text-align:center">
-        <a target="_blank" ng-href="mailto:{{candidate.email}}">{{ candidate.person_id.email }}</a>
+        <a target="_blank" ng-href="mailto:{{candidate.email}}">{{ candidate.email }}</a>
     </div>
 
     <table ng-show="candidate.topics.length > 0" style="width: 80%;max-width: 700px;margin: 15px auto; text-align:center" class="ui table">
@@ -78,8 +95,4 @@
             </tr>
         </tbody>
     </table>
-
-    <div ng-click="hideCandidate()" style="margin-top:10px; width: 100%;" class="ui button">
-        Back
-    </div>
 </div>

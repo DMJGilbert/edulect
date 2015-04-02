@@ -1,6 +1,6 @@
 'use strict';
 
-edulect.factory('Postcode', function ($resource) {
+edulect.factory('Constituencies', function ($resource) {
 	'use strict';
 
 	return $resource('/api/constituencies', null, {});
