@@ -107,7 +107,7 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
         }
 
         $scope.gotoMyLocation = function () {
-            $location.path("/location/?lat=" + $scope.latitude +'&long=' + $scope.longitude);
+            $location.path("/location/" + $scope.latitude +'/' + $scope.longitude);
         }
 
         $scope.gotoConstituency = function (conId) {

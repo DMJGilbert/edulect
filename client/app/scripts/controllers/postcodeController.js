@@ -61,12 +61,12 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 });
 
        } else if ($location.path().indexOf('/location') != -1){
-            if (!$routeParams.long || !$routeParams.lat) {
+            if (!$routeParams.lng || !$routeParams.lat) {
                 $location.path('/');
             }
 
             Postcode.get({
-                    long: $routeParams.long,
+                    long: $routeParams.lng,
                     lat: $routeParams.lat
                 }, function (data) {
                     if(data.name){

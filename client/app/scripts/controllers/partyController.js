@@ -9,7 +9,7 @@ edulect.controller('PartyController', ['$scope', '$rootScope', '$http', '$locati
             if ($scope.parties[i].code == $routeParams.partyName) {
                 $scope.selectedParty = $scope.parties[i];
 
-                Pary.get({
+                Party.get({
                     id: $scope.selectedParty.api
                 }, function (data) {
                     console.log(data);
