@@ -100,8 +100,10 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
         });
 
         $scope.gotoPostcode = function () {
-            $scope.myPostcode = $scope.myPostcode.replace(/\s/g, '');
-            $location.path("/postcode/" + $scope.myPostcode);
+            if($scope.myPostcode) {
+                $scope.myPostcode = $scope.myPostcode.replace(/\s/g, '');
+                 $location.path("/postcode/" + $scope.myPostcode);
+            }
         }
 
         $scope.gotoMyLocation = function () {
