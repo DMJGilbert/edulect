@@ -12,6 +12,7 @@ module.exports = function (app) {
 	app.use('/api/constituency', require('./api/constituency'));
 	app.use('/api/candidate', require('./api/candidate'));
 	app.use('/api/unis', require('./api/unis'));
+	app.use('/api/constituencies', require('./api/constituencies'));
 	app.use('/api/rss', require('./api/rss'));
 
 	// All undefined asset or api routes should return a 404
