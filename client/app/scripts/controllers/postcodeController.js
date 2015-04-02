@@ -60,15 +60,13 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                     $location.path('/');
                 });
 
-                $scope.postcode = $routeParams.postcode.toUpperCase();
-
        } else if ($location.path().indexOf('/location') != -1){
-            if (!$routeParams.long || !$routeParams.lat) {
+            if (!$routeParams.lng || !$routeParams.lat) {
                 $location.path('/');
             }
 
             Postcode.get({
-                    long: $routeParams.long,
+                    long: $routeParams.lng,
                     lat: $routeParams.lat
                 }, function (data) {
                     if(data.name){
@@ -80,8 +78,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 }, function (error) {
                     $location.path('/');
                 });
-
-                $scope.postcode = $routeParams.postcode.toUpperCase();
        }
 
 

@@ -35,7 +35,7 @@
             </button>
         </div>
     </div>
-    <div ng-show="postcode" >
+    <div style="margin-top:10px;" ng-show="postcode && longitude && latitude" >
         <div ng-click="gotoMyLocation()" style="width: 90% !important; max-width: 700px; margin: 0 auto;" class="ui button">
             My location
         </div>
@@ -46,7 +46,7 @@
         <i class="dropdown icon"></i>
         <div class="default text">Constituency...</div>
         <div class="menu">
-            <div ng-click="gotoConstituency(constituency)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
+            <div ng-click="gotoConstituency(constituency.id)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
         </div>
     </div>
 
@@ -55,7 +55,7 @@
         <i class="dropdown icon"></i>
         <div class="default text">University...</div>
         <div class="menu">
-            <div ng-click="gotoUniPostcode(university.id)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
+            <div ng-click="gotoUniPostcode(university)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
         </div>
     </div>
 </div>

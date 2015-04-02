@@ -43,7 +43,7 @@ edulect.config(['$routeProvider', '$locationProvider',
 			templateUrl: '/app/views/postcode/',
 			controller: 'PostcodeController'
 		}).
-        when('/location/', {
+        when('/location/:lat/:lng', {
 			templateUrl: '/app/views/postcode/',
 			controller: 'PostcodeController'
 		}).

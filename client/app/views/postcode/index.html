@@ -68,7 +68,7 @@
     </div>
 
     <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">
-        <i class="twitter icon"></i> {{ candidate.twitterProfile.status.text }}
+        {{ candidate.twitterProfile.status.text }}
     </div>
 
     <div style="padding-top:10px; text-align:center" ng-repeat="url in candidate.urls">
