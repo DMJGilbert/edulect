@@ -42,7 +42,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
 
                 $scope.postcode = $routeParams.postcode.toUpperCase();
 
-       } else ($location.path().indexOf('/constituency') != -1){
+       } else if ($location.path().indexOf('/constituency') != -1){
             if (!$routeParams.id) {
                 $location.path('/');
             }
@@ -62,7 +62,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
 
                 $scope.postcode = $routeParams.postcode.toUpperCase();
 
-       } else ($location.path().indexOf('/location') != -1){
+       } else if ($location.path().indexOf('/location') != -1){
             if (!$routeParams.long || !$routeParams.lat) {
                 $location.path('/');
             }
