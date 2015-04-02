@@ -21,7 +21,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
             return false;
         }
 
-        console.log($location.path().indexOf('/postcode'));
        if ($location.path().indexOf('/postcode') != -1){
             if (!$routeParams.postcode) {
                 $location.path('/');
