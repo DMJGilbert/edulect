@@ -21,9 +21,9 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
         $scope.constituency = false;
         $scope.university = false;
 
-        $scope.registerCloses = new Date('04/03/2015 11:00 PM');
-        $scope.pollsOpen = new Date('04/03/2015 11:20 AM');
-        $scope.pollsClose = new Date('04/04/2015 00:00 AM');
+        $scope.registerCloses = new Date('04/21/2015 00:00 AM');
+        $scope.pollsOpen = new Date('05/07/2015 07:00 AM');
+        $scope.pollsClose = new Date('05/07/2015 10:00 PM');
 
         $scope.second = 1000;
         $scope.minute = $scope.second * 60;
