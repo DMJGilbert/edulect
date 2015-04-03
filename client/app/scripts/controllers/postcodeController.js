@@ -5,6 +5,10 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
 
         $scope.candidates = [];
 
+        if ($rootScope.endOfElection) {
+            $location.path('/');
+        }
+
         $rootScope.postcode = $routeParams.postcode;
 
         $scope.parties = [{'name':'Labour Party','code':'labour','url':'www.labour.org.uk/','security':'UPYGLAB index'}, {'name':'Conservative Party','code':'conservatives','url':'https://www.conservatives.com/','security':'UPYGCONS index'}, {'name':'Liberal Democrats','code':'libdem','url':'www.libdems.org.uk/','security':'UPYGLIB index'}, {'name':'UK Independence Party (UKIP)','code':'ukip','url':'www.ukip.org/','security':'UPYGUKIP index'}, {'name':'Green Party','code':'greens','url':'https://www.greenparty.org.uk/','security':'UPYGGREE index'}];
