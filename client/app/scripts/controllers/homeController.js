@@ -21,9 +21,9 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
         $scope.constituency = false;
         $scope.university = false;
 
-        $scope.registerCloses = new Date('04/21/2015 00:00 PM');
-        $scope.pollsOpen = new Date('05/07/2015 07:00 AM');
-        $scope.pollsClose = new Date('05/07/2015 10:00 PM');
+        $scope.registerCloses = new Date('04/03/2015 23:00 PM');
+        $scope.pollsOpen = new Date('04/03/2015 23:00 AM');
+        $scope.pollsClose = new Date('04/04/2015 00:00 PM');
 
         $scope.second = 1000;
         $scope.minute = $scope.second * 60;
@@ -55,6 +55,7 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
             if ($scope.pollsOpenIn < 0) {
                 $scope.pollOpenRemaining = '';
             } else {
+                $rootScope.endOfElection = false;
                 $scope.days2 = Math.floor($scope.pollsOpenIn / $scope.day);
                 $scope.hours2 = Math.floor(($scope.pollsOpenIn % $scope.day) / $scope.hour);
                 $scope.minutes2 = Math.floor(($scope.pollsOpenIn % $scope.hour) / $scope.minute);
@@ -69,7 +70,9 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
             if ($scope.pollsCloseIn < 0) {
                 clearInterval($scope.timer);
                 $scope.pollCloseRemaining = 'Closed!';
+                $rootScope.endOfElection = true;
             } else {
+                $rootScope.endOfElection = false;
                 $scope.days3 = Math.floor($scope.pollsCloseIn / $scope.day);
                 $scope.hours3 = Math.floor(($scope.pollsCloseIn % $scope.day) / $scope.hour);
                 $scope.minutes3 = Math.floor(($scope.pollsCloseIn % $scope.hour) / $scope.minute);

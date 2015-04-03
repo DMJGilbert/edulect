@@ -7,6 +7,8 @@ edulect.controller('RootController', ['$scope', '$rootScope', '$http', '$locatio
 
         $rootScope.postcode = '';
 
+        $rootScope.endOfElection = true;
+
         $rootScope.shuffle = function (array) {
             var currentIndex = array.length,
                 temporaryValue, randomIndex;

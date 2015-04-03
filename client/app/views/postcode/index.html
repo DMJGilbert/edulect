@@ -11,7 +11,7 @@
     <div class="ui text loader">Requesting constituency</div>
 </div>
 
-<div ng-show="currentCandidate && !candidate.twitterProfile" class="ui active inverted dimmer">
+<div ng-show="currentCandidate && !candidate.received" class="ui active inverted dimmer">
     <div class="ui text loader">Requesting candidate data</div>
 </div>
 
@@ -49,7 +49,7 @@
         <h3>{{ area.name }}</h3>
     </div>
 
-    <img style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
+    <img ng-show="currentCandidate && !candidate.twitterProfile" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
 
     <div style="padding-top:10px; text-align:center">
         {{ candidate.name }}
@@ -95,4 +95,12 @@
             </tr>
         </tbody>
     </table>
+</div>
+
+<div style="margin-top: 10%; text-align:center;width:100%;">
+    <a target="_blank" href="http://darrengilbert.rocks">DG</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://maxjmay.co.uk">MJM</a>&nbsp;&amp;&nbsp;<a target="_blank" href="https://www.linkedin.com/profile/view?id=269993245&trk=nav_responsive_tab_profile">JYN</a>
+    <br>
+    <a target="_blank" href="http://facebook.com/edulect"><f class="fa fa-facebook"></i></a>&nbsp;<a target="_blank" href="http://twitter.com/edulect"><f class="fa fa-twitter"></i></a>
+    <br>
+    <a href="mailto:admin@edulect.co.uk">admin@edulect.co.uk</a>
 </div>

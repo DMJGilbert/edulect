@@ -29,7 +29,7 @@
 
     <div ng-show="postcode" class="searchArea">
         <div style="width: 100%;" class="ui action input">
-            <input ng-enter="gotoPostcode()" ng-model="myPostcode" type="text" placeholder="Postcode...">
+            <input ng-enter="gotoPostcode()" ng-model="myPostcode" type="text" placeholder="Search by postcode...">
             <button ng-click="gotoPostcode()" class="ui right label button">
                 Search
             </button>
@@ -41,26 +41,26 @@
         </div>
     </div>
 
-    <div ng-show="constituency" class="searchArea ui fluid search selection dropdown">
+    <div style="display: table;" ng-show="constituency" class="searchArea ui fluid search selection dropdown">
         <input type="hidden" name="uni">
         <i class="dropdown icon"></i>
-        <div class="default text">Constituency...</div>
+        <div class="default text">Search by constituency...</div>
         <div class="menu">
             <div ng-click="gotoConstituency(constituency.id)" class="item" ng-repeat="constituency in constituencies | orderBy:'name'">{{ constituency.name }}</div>
         </div>
     </div>
 
-    <div ng-show="university" class="searchArea ui fluid search selection dropdown">
+    <div style="display: table;" ng-show="university" class="searchArea ui fluid search selection dropdown">
         <input type="hidden" name="uni">
         <i class="dropdown icon"></i>
-        <div class="default text">University...</div>
+        <div class="default text">Search by University...</div>
         <div class="menu">
             <div ng-click="gotoUniPostcode(university)" class="item" ng-repeat="university in universities | orderBy:'name'">{{ university.name }}</div>
         </div>
     </div>
 </div>
 
-<div style="bottom:10px; position:fixed; text-align:center;width:100%;">
+<div style="margin-top: 10%; text-align:center;width:100%;">
     <a target="_blank" href="http://darrengilbert.rocks">DG</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://maxjmay.co.uk">MJM</a>&nbsp;&amp;&nbsp;<a target="_blank" href="https://www.linkedin.com/profile/view?id=269993245&trk=nav_responsive_tab_profile">JYN</a>
     <br>
     <a target="_blank" href="http://facebook.com/edulect"><f class="fa fa-facebook"></i></a>&nbsp;<a target="_blank" href="http://twitter.com/edulect"><f class="fa fa-twitter"></i></a>
