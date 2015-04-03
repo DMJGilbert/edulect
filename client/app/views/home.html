@@ -9,12 +9,12 @@
         <h3>{{ registerClosesRemaining }}</h3>
     </div>
 
-    <div ng-show="pollsOpenIn > 0">Polling stations open in</div>
+    <div ng-show="pollsOpenIn > 0">UK polling stations open in</div>
     <div ng-show="pollsOpenIn > 0" style="padding-bottom:30px">
         <h3>{{ pollOpenRemaining }}</h3>
     </div>
 
-    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0">Polling stations close in</div>
+    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0">UK polling stations close in</div>
     <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0" style="padding-bottom:30px">
         <h3>{{ pollCloseRemaining }}</h3>
     </div>
