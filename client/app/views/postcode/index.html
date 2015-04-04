@@ -55,12 +55,8 @@
         {{ candidate.name }}
     </div>
 
-    <div ng-show="!candidate.partyCode" style="padding-top:10px; text-align:center">
+    <div style="padding-top:10px; text-align:center">
         {{ candidate.party }}
-    </div>
-
-    <div ng-show="candidate.partyCode" style="padding-top:10px; text-align:center">
-        <a ng-href="/parties/{{ candidate.partyCode }}">{{ candidate.party }}</a>
     </div>
 
     <div ng-hide="!candidate.twitterProfile" style="padding-top:10px; text-align:center">

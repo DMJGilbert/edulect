@@ -47,10 +47,6 @@ edulect.config(['$routeProvider', '$locationProvider',
 			templateUrl: '/app/views/postcode/',
 			controller: 'PostcodeController'
 		}).
-        when('/parties/:partyName', {
-			templateUrl: '/app/views/parties/party/',
-			controller: 'PartyController'
-		}).
 		otherwise({
 			redirectTo: '/'
 		});
