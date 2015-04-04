@@ -49,7 +49,7 @@
         <h3>{{ area.name }}</h3>
     </div>
 
-    <img ng-show="currentCandidate && !candidate.received" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
+    <img ng-show="currentCandidate && candidate.received" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
 
     <div style="padding-top:10px; text-align:center">
         {{ candidate.name }}
