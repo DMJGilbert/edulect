@@ -35,6 +35,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 }, function (data) {
                     if(data.name){
                         $scope.candidates = data.candidates;
+                        $scope.candidates = $rootScope.shuffle($scope.candidates);
                         $scope.constituency = data.name;
                     }else {
                         $location.path('/');
