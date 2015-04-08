@@ -7,12 +7,6 @@ edulect.controller('RootController', ['$scope', '$rootScope', '$http', '$locatio
 
         $rootScope.postcode = '';
 
-        if(!$rootScope.currentPath) {
-            $rootScope.currentPath = 'null';
-        } else if($rootScope.currentPath != 'null'){
-            $location.path($rootScope.currentPath);
-        }
-
         $rootScope.endOfElection = true;
 
         $rootScope.shuffle = function (array) {

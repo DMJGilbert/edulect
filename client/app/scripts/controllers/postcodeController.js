@@ -3,8 +3,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
  function homeController($scope, $rootScope, $http, $location, $routeParams, $interval, Postcode, Candidate, Twitter) {
         'use strict';
 
-        $rootScope.currentPath = 'null';
-
         $scope.candidates = [];
 
         if ($rootScope.endOfElection) {
@@ -94,7 +92,6 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
         }
 
         $scope.showCandidate = function (index) {
-            $rootScope.currentPath = $location.path();
             $scope.currentCandidate = true;
             $scope.selectedParty = $scope.candidates[index].party;
             $scope.candidate = $scope.candidates[index];
