@@ -1,9 +1,9 @@
-<div style="text-align:center;">
+<div ng-show="currentPath == 'null'" style="text-align:center;">
     <img style="width:300px; height:auto;padding-top:15px;padding-bottom:30px;" src="/assets/images/edulect.svg">
 
     <a style="position: absolute;top: 10px;right: 13px;cursor: pointer;" ng-href="/faq">FAQ</a>
 </div>
-<div ng-show="pollsCloseIn > 0" style="text-align:center; height: 100%;">
+<div ng-show="currentPath == 'null' && pollsCloseIn > 0" style="text-align:center; height: 100%;">
     <div ng-show="registerClosesIn > 0">Registering to vote closes in</div>
     <div ng-show="registerClosesIn > 0" style="padding-bottom:30px">
         <h3>{{ registerClosesRemaining }}</h3>
@@ -62,7 +62,7 @@
     </div>
 </div>
 
-<div style="margin-top: 10%; text-align:center;width:100%;">
+<div ng-show="currentPath == 'null'" style="margin-top: 10%; text-align:center;width:100%;">
     <a target="_blank" href="http://darrengilbert.rocks">DG</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://www.maxjmay.co.uk">MJM</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://my.linkedin.com/pub/jun-yuan-ng/76/506/111">JYN</a>
     <br>
     <a target="_blank" href="http://facebook.com/edulect"><f class="fa fa-facebook"></i></a>&nbsp;<a target="_blank" href="http://twitter.com/edulect"><f class="fa fa-twitter"></i></a>
