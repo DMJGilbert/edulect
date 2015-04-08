@@ -123,6 +123,11 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
             $scope.candidate = {};
         }
 
+        $scope.goHome = function() {
+            $rootScope.currentPath = 'null';
+            $location.path('/');
+        }
+
         $scope.getMainLink = function () {
             if($scope.candidate){
                 for(var i = 0; i < $scope.candidate.urls.length; i += 1){
