@@ -3,6 +3,10 @@ edulect.controller('HomeController', ['$scope', '$rootScope', '$http', '$locatio
  function homeController($scope, $rootScope, $http, $location, $routeParams, $timeout, University, Constituencies) {
         'use strict';
 
+        if($rootScope.currentPath != 'null'){
+            $location.path($rootScope.currentPath);
+        }
+
             function getLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(showPosition);

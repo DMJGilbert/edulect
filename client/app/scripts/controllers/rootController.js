@@ -5,12 +5,7 @@ edulect.controller('RootController', ['$scope', '$rootScope', '$http', '$locatio
         // If user is signed in then redirect back home
         'use strict';
 
-        if(!$rootScope.currentPath) {
-            $rootScope.currentPath = 'null';
-        } else if($rootScope.currentPath != 'null'){
-            $location.path($rootScope.currentPath);
-        }
-        console.log($rootScope.currentPath);
+        $rootScope.currentPath = 'null';
 
         $rootScope.postcode = '';
 
