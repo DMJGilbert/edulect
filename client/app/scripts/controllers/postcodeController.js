@@ -106,6 +106,9 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 $scope.getMainLink();
                 $scope.candidate.received = true;
                 $scope.candidate.twitterProfile = $scope.candidate.twitter[0];
+                if ($scope.candidate.twitterProfile && $scope.candidate.twitterProfile.profile_image_url){
+                    $scope.candidate.twitterProfile.profile_image_url = $scope.candidate.twitterProfile.profile_image_url.replace("_normal", "_bigger");
+                }
             });
         }
 
@@ -125,7 +128,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                     }
                 }
 
-                if ($scope.candidate.urls){
+                if ($scope.candidate.urls[0]){
                     $scope.candidate.mainLink = $scope.candidate.urls[0].url;
                 }
             }
