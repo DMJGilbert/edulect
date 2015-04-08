@@ -116,6 +116,7 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
         }
 
         $scope.hideCandidate = function (index) {
+            $rootScope.currentPath = 'null';
             $scope.currentCandidate = false;
             $scope.candidate.image = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
             $scope.candidate.mainLink = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
