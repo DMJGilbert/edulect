@@ -8,6 +8,7 @@ edulect.controller('RootController', ['$scope', '$rootScope', '$http', '$locatio
         if(!$rootScope.currentPath) {
             $rootScope.currentPath = 'null';
         } else if($rootScope.currentPath != 'null'){
+            console.log($rootScope.currentPath);
             $location.path($rootScope.currentPath);
         }
 
