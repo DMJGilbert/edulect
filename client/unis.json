@@ -562,5 +562,101 @@
 	{
 		"name": "University of Buckingham",
 		"postcode": "MK18 1EG"
+},
+	{
+		"name": "University of St. Andrews",
+		"postcode": "KY16 9AJ"
+},
+	{
+		"name": "University of Edinburgh",
+		"postcode": "EH8 9YL"
+},
+	{
+		"name": "University of Glasgow",
+		"postcode": "G12 8QQ"
+},
+	{
+		"name": "University of Aberdeen",
+		"postcode": "AB24 3FX"
+},
+	{
+		"name": "University of Strathclyde",
+		"postcode": "G1 1XQ"
+},
+	{
+		"name": "Heriot-Watt University",
+		"postcode": "EH14 4AS"
+},
+	{
+		"name": "University of Dundee",
+		"postcode": "DD1 4HN"
+},
+	{
+		"name": "University of Stirling",
+		"postcode": "FK9 4LA"
+},
+	{
+		"name": "Edinburgh Napier University",
+		"postcode": "EH10 5DT"
+},
+	{
+		"name": "The Robert Gordon University",
+		"postcode": "AB10 7QB"
+},
+	{
+		"name": "Glasgow Caledonian University",
+		"postcode": "G4 0BA"
+},
+	{
+		"name": "University of Abertay Dundee",
+		"postcode": "DD1 1HG"
+},
+	{
+		"name": "Queen Margaret University",
+		"postcode": "EH21 6UU"
+},
+	{
+		"name": "University of South Wales",
+		"postcode": "CF24 2FN"
+},
+	{
+		"name": "Cardiff University",
+		"postcode": "CF10 3XQ"
+},
+	{
+		"name": "Swansea University",
+		"postcode": "SA2 8PP"
+},
+	{
+		"name": "Bangor University",
+		"postcode": "LL57 2DG"
+},
+	{
+		"name": "Aberystwyth University",
+		"postcode": "SY23 1DE"
+},
+	{
+		"name": "Cardiff Metropolitan University",
+		"postcode": "CF5 2YB"
+},
+	{
+		"name": "University of Wales, Trinity Saint David",
+		"postcode": "SA31 3EP"
+},
+	{
+		"name": "University of Wales, Trinity Saint David",
+		"postcode": "SA31 3EP"
+},
+	{
+		"name": "Glyndwr University",
+		"postcode": "LL11 2AW"
+},
+	{
+		"name": "Queen's University Belfast",
+		"postcode": "BT7 1NN"
+},
+	{
+		"name": "Ulster University",
+		"postcode": "BT52 1SA"
 }
 ]

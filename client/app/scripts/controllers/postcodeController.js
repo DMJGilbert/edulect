@@ -103,15 +103,33 @@ edulect.controller('PostcodeController', ['$scope', '$rootScope', '$http', '$loc
                 $scope.candidate = data;
                 $scope.candidate.party = $scope.selectedParty;
                 $scope.getPartyCode($scope.candidate);
+                $scope.getMainLink();
                 $scope.candidate.received = true;
                 $scope.candidate.twitterProfile = $scope.candidate.twitter[0];
             });
         }
 
         $scope.hideCandidate = function (index) {
-            $scope.candidate.image = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
             $scope.currentCandidate = false;
+            $scope.candidate.image = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
+            $scope.candidate.mainLink = 'https://s3.amazonaws.com/akiaisoxi7kjcprfrvjq/artists/placeholder.png';
             $scope.candidate = {};
+        }
+
+        $scope.getMainLink = function () {
+            if($scope.candidate){
+                for(var i = 0; i < $scope.candidate.urls.length; i += 1){
+                    if ($scope.candidate.urls[i].note.trim() == 'homepage') {
+                        $scope.candidate.mainLink = $scope.candidate.urls[i].url;
+                        return true;
+                    }
+                }
+
+                if ($scope.candidate.urls){
+                    $scope.candidate.mainLink = $scope.candidate.urls[0].url;
+                }
+            }
+            return true;
         }
 
     }

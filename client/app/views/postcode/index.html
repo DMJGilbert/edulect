@@ -49,7 +49,9 @@
         <h3>{{ area.name }}</h3>
     </div>
 
-    <img ng-show="currentCandidate && candidate.received" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
+    <img ng-show="currentCandidate && candidate.received && (!candidate.twitterProfile || !candidate.twitterProfile.profile_image_url)" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.image }}">
+
+    <img ng-show="currentCandidate && candidate.received && candidate.twitterProfile && candidate.twitterProfile.profile_image_url" style="width:100px; height:auto;padding-top:15px;padding-bottom:10px;" ng-src="{{ candidate.twitterProfile.profile_image_url }}">
 
     <div style="padding-top:10px; text-align:center">
         {{ candidate.name }}
@@ -80,7 +82,7 @@
             <tr>
                 <th style="text-align:center;"><strong>Topic</strong>
                 </th>
-                <th style="text-align:center;"><strong>Impact</strong>
+                <th style="text-align:center;"><a ng-show="candidate.mainLink" ng-href="https://majestic.com/reports/site-explorer?q={{ candidate.mainLink }}">Impact</a><strong ng-show="!candidate.mainLink">Impact</strong>
                 </th>
             </tr>
         </thead>
@@ -94,6 +96,8 @@
 </div>
 
 <div style="margin-top: 10%; text-align:center;width:100%;">
+    <p>Candidate data provided by <a target="_blank" href="https://yournextmp.com/">YourNextMP</a></p>
+    <p>Topics and impact data provided by <a target="_blank" href="https://majestic.com/">Majestic</a></p>
     <a target="_blank" href="http://darrengilbert.rocks">DG</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://www.maxjmay.co.uk">MJM</a>&nbsp;&amp;&nbsp;<a target="_blank" href="http://my.linkedin.com/pub/jun-yuan-ng/76/506/111">JYN</a>
     <br>
     <a target="_blank" href="http://facebook.com/edulect"><f class="fa fa-facebook"></i></a>&nbsp;<a target="_blank" href="http://twitter.com/edulect"><f class="fa fa-twitter"></i></a>
