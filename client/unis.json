@@ -658,5 +658,37 @@
 	{
 		"name": "Ulster University",
 		"postcode": "BT52 1SA"
+},
+	{
+		"name": "University of West Scotland (Paisley)",
+		"postcode": "PA1 2BE"
+},
+	{
+		"name": "University of West Scotland (Dumfries)",
+		"postcode": "DG1 4ZN"
+},
+	{
+		"name": "University of West Scotland (Hamilton)",
+		"postcode": "ML3 0JB"
+},
+	{
+		"name": "University of West Scotland (Ayr)",
+		"postcode": "KA8 0SX"
+},
+	{
+		"name": "Royal Conservatoire of Scotland",
+		"postcode": "G2 3DB"
+},
+	{
+		"name": "Glasgow School of Art",
+		"postcode": "G3 6RQ"
+},
+	{
+		"name": "Perth College UHI",
+		"postcode": "PH1 2NX"
+},
+	{
+		"name": "Inverness College UHI",
+		"postcode": "IV1 1SA"
 }
 ]
