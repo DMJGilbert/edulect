@@ -17,7 +17,7 @@ var client = new Twitter({
 router.get('/', function (req, res) {
 	if (req.query.id) {
 		request("http://yournextmp.popit.mysociety.org/api/v0.1/search/persons?q=id:" + req.query.id + "&embed=membership.person.membership.organization", function (error, response, body) {
-			if (!error && response.statusCode == 200) {
+			if (!error && response.statusCode === 200) {
 				var candidate = JSON.parse(body).result[0];
 				console.log(candidate)
 				request.post('http://enterprise.majesticseo.com/api/json', {
@@ -27,7 +27,7 @@ router.get('/', function (req, res) {
 						cmd: 'GetTopics'
 					}
 				}, function (error, response, body) {
-					if (!error && response.statusCode == 200) {
+					if (!error && response.statusCode === 200) {
 						var web = JSON.parse(body);
 						client.get('users/lookup.json', {
 							screen_name: findTwitter(candidate.memberships[0].person_id.contact_details)
@@ -55,7 +55,7 @@ router.get('/', function (req, res) {
 function findLink(links) {
 	var returner;
 	links.forEach(function (link) {
-		if (link.note.trim() == 'homepage') {
+		if (link.note.trim() === 'homepage') {
 			returner = link.url;
 		}
 		if (!returner) {
@@ -69,7 +69,7 @@ function findLink(links) {
 function findTwitter(links) {
 	var returner;
 	links.forEach(function (link) {
-		if (link.type.trim() == 'twitter') {
+		if (link.type.trim() === 'twitter') {
 			returner = link.value;
 		}
 	});

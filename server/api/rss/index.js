@@ -8,7 +8,7 @@ var router = express.Router();
 
 router.get('/', function (req, res) {
 	request('http://feeds.bbci.co.uk/news/politics/rss.xml', function (error, response, body) {
-		if (!error && response.statusCode == 200) {
+		if (!error && response.statusCode === 200) {
 //			parseString(body, function (err, result) {
 //				res.jsonp(result);
 //			});

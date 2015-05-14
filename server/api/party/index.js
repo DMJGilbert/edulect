@@ -74,7 +74,7 @@ router.get('/', function (req, res) {
 				cmd: 'GetTopics'
 			}
 		}, function (error, response, body) {
-			if (!error && response.statusCode == 200) {
+			if (!error && response.statusCode === 200) {
 				var web = JSON.parse(body);
 				client.get('users/lookup.json', {
 					screen_name: party.twitter

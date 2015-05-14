@@ -3,23 +3,10 @@
 
     <a style="position: absolute;top: 10px;right: 13px;cursor: pointer;" ng-href="/faq">FAQ</a>
 </div>
-<div ng-show="currentPath == 'null' && pollsCloseIn > 0" style="text-align:center; height: 100%;">
-    <div ng-show="registerClosesIn > 0">Registering to vote closes in</div>
-    <div ng-show="registerClosesIn > 0" style="padding-bottom:30px">
-        <h3>{{ registerClosesRemaining }}</h3>
+<div style="text-align:center; height: 100%;">
+    <div style="padding-bottom:30px">
+        <h3>Who stood in your constituency at the 2015 election?</h3>
     </div>
-
-    <div ng-show="pollsOpenIn > 0">UK polling stations open in</div>
-    <div ng-show="pollsOpenIn > 0" style="padding-bottom:30px">
-        <h3>{{ pollOpenRemaining }}</h3>
-    </div>
-
-    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0">UK polling stations close in</div>
-    <div ng-show="pollsCloseIn > 0 && pollsOpenIn < 0" style="padding-bottom:30px">
-        <h3>{{ pollCloseRemaining }}</h3>
-    </div>
-
-    <div ng-show="pollsCloseIn < 0 && pollsOpenIn < 0"><h3>The 2015 UK General Election has now finished!</h3></div>
 
     <div class="ui top attached tabular menu">
         <div ng-click="university = false; postcode = true; constituency = false;" ng-class="{active: postcode}" class="item">Postcode</div>
